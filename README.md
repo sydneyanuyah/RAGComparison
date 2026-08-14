@@ -48,13 +48,9 @@ The `artifacts/` directory contains the available project files collected from t
 
 Each complete evaluation bundle contains predictions, CSV and JSON metrics, five TF-IDF vectorizers, and five sparse matrices. The available server outputs also include the `llama3_2_T0.5` bundle.
 
-### Paper and source materials
+### Paper
 
-- `paper/` contains the published IEEE paper and three available PDF variants.
-- `manuscript/submission_source.zip` is the available manuscript source archive.
-- `manuscript/source_package/` contains the extracted TeX sections, bibliography, and PDF figures from that archive.
-- `manuscript/later_main.tex` is the available later main TeX file.
-- `presentations/` contains two available presentations for this work.
+`paper/Domain-Specific_Knowledge_Graphs_in_RAG-Enhanced_Healthcare_LLMs.pdf` is the published IEEE paper included with this repository.
 
 ## Citation
 
