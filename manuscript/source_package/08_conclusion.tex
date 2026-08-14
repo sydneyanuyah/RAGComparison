@@ -1,0 +1,11 @@
+\section{Conclusion}
+
+This work studied domain-specific KG-RAG for healthcare LLMs under realistic design choices: graph scope ($\mathbb{G}_1$/$\mathbb{G}_2$/$\mathbb{G}_3$), probe definition (merged vs.\ intersection), model capacity, and decoding temperature. Three consistent lessons emerged.
+
+\textbf{(1) Match retrieval scope to task scope.} Probe 1 (merged AD -T2DM relations) is best served by retrieval that is to a large extent coincidental with the relations (e.g. $\mathbb{G}_3$ or more specific union of $\mathbb{G}_2$), whereas Probe 2 (intersection-style questions) is best served by $\mathbb{G}_2$ or $\mathbb{G}_1$+$\mathbb{G}_2$ rather than excessively broad unions.
+
+\textbf{(2) Favor precision over breadth.} Uniting graphs increases recall but also injects heterogeneous evidence; without strong ranking/filters, distractors lower accuracy. Precision-first retrieval with scope-matched graphs is more reliable.
+
+\textbf{(3) Right-size KG-RAG to model capacity.} Smaller and mid-sized models gain the most from clean, well-scoped retrieval (notably with $\mathbb{G}_2$). Larger models often match or surpass KG-RAG with \textit{No-RAG} on merged-scope questions, reflecting strong parametric knowledge and a higher sensitivity to noisy context.
+
+ Practically, teams should: (i) choose graphs that match their question distribution; (ii) deploy rankers/filters that shed off-topic spans and reward corroborated evidence; and (iii) tailor retrieval strictness to model size. Future work includes risk-aware reranking, dynamic graph selection conditioned on query intent, and multi-hop reasoning that exploits KG structure without flooding prompts with near-miss facts.

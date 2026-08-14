@@ -1,0 +1,2546 @@
+[
+  {
+    "id": 1,
+    "question": "Which factor is explicitly reported to predict cognitive impairment?",
+    "options": {},
+    "choices": {
+      "A": "APOE ε4",
+      "B": "HbA1c",
+      "C": "Mitochondrial dysfunction",
+      "D": "Type 2 diabetes (T2D)",
+      "E": "Arterial stiffness"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "HbA1c",
+      "indices": []
+    }
+  },
+  {
+    "id": 2,
+    "question": "Elevated HbA1c levels are associated with increased risks of:",
+    "options": {},
+    "choices": {
+      "A": "Elevated HbA1c levels are associated with increased risks of:",
+      "B": "Neurofibrillary tangles (NFTs)",
+      "C": "Cardiovascular disease",
+      "D": "Olfactory impairments",
+      "E": "Tau hyperphosphorylation"
+    },
+    "answer": {
+      "letter": "D",
+      "text": "Olfactory impairments",
+      "indices": []
+    }
+  },
+  {
+    "id": 3,
+    "question": "Epidemiological studies confirm insulin resistance impacts which process directly?",
+    "options": {},
+    "choices": {
+      "A": "Tau tangle density",
+      "B": "Dopamine depletion",
+      "C": "Amyloid-β accumulation",
+      "D": "Synaptic pruning",
+      "E": "BBB permeability"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "Amyloid-β accumulation",
+      "indices": []
+    }
+  },
+  {
+    "id": 4,
+    "question": "Endothelial insulin resistance could lead to:",
+    "options": {},
+    "choices": {
+      "A": "Epilepsy",
+      "B": "Dyslipidemia",
+      "C": "Blood–brain barrier dysfunction",
+      "D": "Genetic predisposition",
+      "E": "Lower cognition"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "Blood–brain barrier dysfunction",
+      "indices": []
+    }
+  },
+  {
+    "id": 5,
+    "question": "Alzheimer’s disease is associated with which hallmark pathology?",
+    "options": {},
+    "choices": {
+      "A": "Reduced VCAM1 expression",
+      "B": "Cortical demyelination",
+      "C": "Amyloid-β (Aβ) plaques",
+      "D": "Decreased NLR",
+      "E": "Autophagy failure"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "Amyloid-β (Aβ) plaques",
+      "indices": []
+    }
+  },
+  {
+    "id": 6,
+    "question": "Higher arterial stiffness is associated with:",
+    "options": {},
+    "choices": {
+      "A": "Improved executive function",
+      "B": "Reduced amyloid burden",
+      "C": "Lower cognition",
+      "D": "Improved olfaction",
+      "E": "Lower tau phosphorylation"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "Lower cognition",
+      "indices": []
+    }
+  },
+  {
+    "id": 7,
+    "question": "Which item is reported as not associated with Alzheimer’s disease?",
+    "options": {},
+    "choices": {
+      "A": "Metabolic dysfunction",
+      "B": "Amyloid-β plaques",
+      "C": "Blood levels of osteoprotegerin",
+      "D": "Neurofibrillary tangles",
+      "E": "Diabetes"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "Blood levels of osteoprotegerin",
+      "indices": []
+    }
+  },
+  {
+    "id": 8,
+    "question": "Activation of the PI3K–AKT pathway led to:",
+    "options": {},
+    "choices": {
+      "A": "Increased VCAM1 expression",
+      "B": "Decreased VCAM1 expression",
+      "C": "Increased BACE1 protein",
+      "D": "Hyperphosphorylated tau",
+      "E": "Endothelial insulin resistance"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "Decreased VCAM1 expression",
+      "indices": []
+    }
+  },
+  {
+    "id": 9,
+    "question": "Complete the chain: Hyperphosphorylation of tau proteins → ___ → Alzheimer’s disease",
+    "options": {},
+    "choices": {
+      "A": "Insulin resistance →",
+      "B": "BBB dysfunction →",
+      "C": "Neuroinflammation →",
+      "D": "Cognitive impairment →",
+      "E": "Mitochondrial dysfunction →"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "Neuroinflammation →",
+      "indices": []
+    }
+  },
+  {
+    "id": 10,
+    "question": "Which path connects Alzheimer’s disease to Type 2 diabetes (T2D)",
+    "options": {},
+    "choices": {
+      "A": "amyloid plaques",
+      "B": "B.insulin resistance",
+      "C": "cognitive decline",
+      "D": "dyslipidemia",
+      "E": "epilepsy"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "B.insulin resistance",
+      "indices": []
+    }
+  },
+  {
+    "id": 11,
+    "question": "Which chain is supported: Amyloid deposition → ___ → neuroinflammation",
+    "options": {},
+    "choices": {
+      "A": "Hyperphosphorylation & aggregation of tau →",
+      "B": "APOE ε4 →",
+      "C": "Dyslipidemia →",
+      "D": "BBB dysfunction →",
+      "E": "Cardiovascular disease →"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "Hyperphosphorylation & aggregation of tau →",
+      "indices": []
+    }
+  },
+  {
+    "id": 12,
+    "question": "What relation is stated between cognitive impairment and tau protein",
+    "options": {},
+    "choices": {
+      "A": "Cognitive impairment is caused by tau protein hyperphosphorylation",
+      "B": "Cognitive impairment causes tau protein hyperphosphorylation",
+      "C": "Mutual causation is reported",
+      "D": "Cognitive impairment is not caused by tau protein hyperphosphorylation",
+      "E": "No relation is reported"
+    },
+    "answer": {
+      "letter": "D",
+      "text": "Cognitive impairment is not caused by tau protein hyperphosphorylation",
+      "indices": []
+    }
+  },
+  {
+    "id": 13,
+    "question": "Endothelial insulin resistance and blood–brain barrier dysfunction: which direction is supported?",
+    "options": {},
+    "choices": {
+      "A": "1→2 (endothelial insulin resistance → BBB dysfunction)",
+      "B": "2→1 (BBB dysfunction → endothelial insulin resistance)",
+      "D": "Any direction"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "1→2 (endothelial insulin resistance → BBB dysfunction)",
+      "indices": []
+    }
+  },
+  {
+    "id": 14,
+    "question": "Type 2 diabetes mellitus (T2DM) is characterized by:",
+    "options": {},
+    "choices": {
+      "A": "Insulin resistance",
+      "B": "Tau tangles",
+      "C": "BBB dysfunction",
+      "D": "Decreased VCAM1 expression",
+      "E": "Elevated osteoprotegerin"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "Insulin resistance",
+      "indices": []
+    }
+  },
+  {
+    "id": 15,
+    "question": "Pick one concept that most immediately leads to 'neurodegeneration'.",
+    "options": {},
+    "choices": {
+      "A": "Alzheimer's disease",
+      "B": "hyperphosphorylation tau proteins",
+      "C": "obesity",
+      "D": "mitochondrial oxidative stress"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "Alzheimer's disease",
+      "indices": []
+    }
+  },
+  {
+    "id": 16,
+    "question": "Identify one factor that directly sets up 'increased risk of Alzheimer's disease'.",
+    "options": {},
+    "choices": {
+      "A": "obesity",
+      "B": "depressive symptoms",
+      "C": "individuals dementia",
+      "D": "NfL"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "depressive symptoms",
+      "indices": []
+    }
+  },
+  {
+    "id": 17,
+    "question": "Pick one concept that most immediately leads to 'death'.",
+    "options": {},
+    "choices": {
+      "A": "mitochondrial oxidative stress",
+      "B": "neuroinflammation",
+      "C": "Alzheimer's disease",
+      "D": "obesity"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "Alzheimer's disease",
+      "indices": []
+    }
+  },
+  {
+    "id": 18,
+    "question": "Select the closest link before 'cognitive decline'.",
+    "options": {},
+    "choices": {
+      "A": "early disruptions brain networks",
+      "B": "disease",
+      "C": "disruption",
+      "D": "aging"
+    },
+    "answer": {
+      "letter": "D",
+      "text": "aging",
+      "indices": []
+    }
+  },
+  {
+    "id": 19,
+    "question": "Arterial stiffness is directly associated with:",
+    "options": {},
+    "choices": {
+      "A": "Cognitive impairment",
+      "B": "Tau clearance",
+      "C": "Synaptic gain",
+      "D": "Aβ removal",
+      "E": "PI3K suppression"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "Cognitive impairment",
+      "indices": []
+    }
+  },
+  {
+    "id": 20,
+    "question": "Elevated FX protein levels were causally associated with:",
+    "options": {},
+    "choices": {
+      "A": "Lower Alzheimer’s risk",
+      "B": "Increased Alzheimer’s risk",
+      "C": "Improved lipid metabolism",
+      "D": "Reduced amyloid load",
+      "E": "Tau dephosphorylation"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "Increased Alzheimer’s risk",
+      "indices": []
+    }
+  },
+  {
+    "id": 21,
+    "question": "Cognitive impairment is not caused by:",
+    "options": {},
+    "choices": {
+      "A": "Tau hyperphosphorylation",
+      "B": "Mitochondrial dysfunction",
+      "C": "Insulin resistance",
+      "D": "Aβ accumulation",
+      "E": "APOE ε4"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "Tau hyperphosphorylation",
+      "indices": []
+    }
+  },
+  {
+    "id": 22,
+    "question": "Endothelial dysfunction results in:",
+    "options": {},
+    "choices": {
+      "A": "BBB leakage",
+      "B": "Mitochondrial repair",
+      "C": "Synaptic gain",
+      "D": "Oxidative reduction",
+      "E": "Tau clearance"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "BBB leakage",
+      "indices": []
+    }
+  },
+  {
+    "id": 23,
+    "question": "Chronic inflammation directly induces:",
+    "options": {},
+    "choices": {
+      "A": "Cytokine overproduction",
+      "B": "Synaptic gain",
+      "C": "Tau dephosphorylation",
+      "D": "BBB repair",
+      "E": "PI3K activation"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "Cytokine overproduction",
+      "indices": []
+    }
+  },
+  {
+    "id": 24,
+    "question": "Mitochondrial dysfunction is directly responsible for:",
+    "options": {},
+    "choices": {
+      "A": "Oxidative stress",
+      "B": "Reduced amyloid load",
+      "C": "BBB strengthening",
+      "D": "Tau clearance",
+      "E": "Improved memory"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "Oxidative stress",
+      "indices": []
+    }
+  },
+  {
+    "id": 25,
+    "question": "Neuroinflammation is most directly linked to:",
+    "options": {},
+    "choices": {
+      "A": "Amyloid-β accumulation",
+      "B": "PI3K activation",
+      "C": "Neuronal death",
+      "D": "BBB tightening",
+      "E": "Insulin sensitivity"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "Neuronal death",
+      "indices": []
+    }
+  },
+  {
+    "id": 26,
+    "question": "Hyperglycemia contributes to Alzheimer’s pathology primarily through increased ______ and subsequent ______.",
+    "options": {
+      "1": "Neuroinflammation",
+      "2": "Glucose tolerance",
+      "3": "Amyloid-β accumulation",
+      "4": "Tau dephosphorylation"
+    },
+    "choices": {
+      "A": "2 and 3",
+      "B": "2 and 1",
+      "C": "1 and 3",
+      "D": "1 and 4",
+      "E": "2 and 4"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "1 and 3",
+      "indices": [
+        1,
+        3
+      ]
+    }
+  },
+  {
+    "id": 27,
+    "question": "Aging leads to cognitive impairment via ______ that causes ______.",
+    "options": {
+      "1": "BBB repair",
+      "2": "Cognitive decline",
+      "3": "Neuroinflammation",
+      "4": "Early brain network disruption"
+    },
+    "choices": {
+      "A": "2 and 4",
+      "B": "4 and 3",
+      "C": "4 and 2",
+      "D": "4 and 1",
+      "E": "1 and 2"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "4 and 2",
+      "indices": [
+        4,
+        2
+      ]
+    }
+  },
+  {
+    "id": 28,
+    "question": "Type 2 diabetes increases Alzheimer’s risk through ______ and ______.",
+    "options": {
+      "1": "Neuroinflammation",
+      "2": "Amyloid degradation",
+      "3": "Insulin resistance",
+      "4": "Tau dephosphorylation"
+    },
+    "choices": {
+      "A": "1 and 2",
+      "B": "3 and 4",
+      "C": "3 and 2",
+      "D": "2 and 4",
+      "E": "3 and 1"
+    },
+    "answer": {
+      "letter": "E",
+      "text": "3 and 1",
+      "indices": [
+        3,
+        1
+      ]
+    }
+  },
+  {
+    "id": 29,
+    "question": "Endothelial insulin resistance leads to Alzheimer’s via ______ causing ______.",
+    "options": {
+      "1": "BBB dysfunction",
+      "2": "Neuroinflammation",
+      "3": "Reduced oxidative stress",
+      "4": "myloid clearance"
+    },
+    "choices": {
+      "A": "2 and 4",
+      "B": "1 and 2",
+      "C": "1 and 3",
+      "D": "2 and 1",
+      "E": "3 and 4"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "1 and 2",
+      "indices": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "id": 30,
+    "question": "Elevated HbA1c worsens cognition through ______ leading to ______.",
+    "options": {
+      "1": "Tau stabilization",
+      "2": "Olfactory dysfunction",
+      "3": "Cognitive decline",
+      "4": "Amyloid aggregation"
+    },
+    "choices": {
+      "A": "2 and 3",
+      "B": "1 and 2",
+      "C": "2 and 1",
+      "D": "1 and 3",
+      "E": "3 and 2"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "2 and 3",
+      "indices": [
+        2,
+        3
+      ]
+    }
+  },
+  {
+    "id": 31,
+    "question": "APOE ε4 carriers exhibit higher Alzheimer’s risk through ______ resulting in ______.",
+    "options": {
+      "1": "Cognitive decline",
+      "2": "Tau dephosphorylation",
+      "3": "Aβ clearance",
+      "4": "Olfactory impairment"
+    },
+    "choices": {
+      "A": "2 and 4",
+      "B": "4 and 3",
+      "C": "3 and 4",
+      "D": "1 and 4",
+      "E": "4 and 1"
+    },
+    "answer": {
+      "letter": "E",
+      "text": "4 and 1",
+      "indices": [
+        4,
+        1
+      ]
+    }
+  },
+  {
+    "id": 32,
+    "question": "PI3K–AKT activation mediates vascular health by reducing ______ and thereby improving ______.",
+    "options": {
+      "1": "Tau hyperphosphorylation",
+      "2": "Endothelial function",
+      "3": "VCAM1 expression",
+      "4": "Mitochondrial stress"
+    },
+    "choices": {
+      "A": "1 and 4",
+      "B": "4 and 2",
+      "C": "4 and 1",
+      "D": "3 and 2",
+      "E": "2 and 3"
+    },
+    "answer": {
+      "letter": "D",
+      "text": "3 and 2",
+      "indices": [
+        3,
+        2
+      ]
+    }
+  },
+  {
+    "id": 33,
+    "question": "Chronic inflammation drives Alzheimer’s progression by promoting ______ followed by ______.",
+    "options": {
+      "1": "Tau hyperphosphorylation",
+      "2": "Synaptic repair",
+      "3": "Amyloid aggregation",
+      "4": "Reduced Aβ"
+    },
+    "choices": {
+      "A": "3 and 4",
+      "B": "3 and 1",
+      "C": "4 and 3",
+      "D": "1 and 3",
+      "E": "2 and 4"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "3 and 1",
+      "indices": [
+        3,
+        1
+      ]
+    }
+  },
+  {
+    "id": 34,
+    "question": "Mitochondrial dysfunction worsens cognition via ______ leading to ______.",
+    "options": {
+      "1": "BBB tightening",
+      "2": "Amyloid removal",
+      "3": "Neuronal death",
+      "4": "Oxidative stress"
+    },
+    "choices": {
+      "A": "1 and 2",
+      "B": "3 and 4",
+      "C": "1 and 3",
+      "D": "4 and 3",
+      "E": "2 and 3"
+    },
+    "answer": {
+      "letter": "D",
+      "text": "4 and 3",
+      "indices": [
+        4,
+        3
+      ]
+    }
+  },
+  {
+    "id": 35,
+    "question": "Vascular stiffness contributes to neurodegeneration by causing ______ followed by ______.",
+    "options": {
+      "1": "Cognitive impairment",
+      "2": "Neurogenesis",
+      "3": "Reduced cerebral flow",
+      "4": "Cognitive impairment"
+    },
+    "choices": {
+      "A": "3 and 1",
+      "B": "1 and 3",
+      "C": "1 and 2",
+      "D": "3 and 2",
+      "E": "2 and 3"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "3 and 1",
+      "indices": [
+        3,
+        1
+      ]
+    }
+  },
+  {
+    "id": 36,
+    "question": "Insulin resistance aggravates Alzheimer’s disease by triggering ______ which causes ______.",
+    "options": {
+      "1": "Tau hyperphosphorylation",
+      "2": "Neuroinflammation",
+      "3": "VCAM1 expression",
+      "4": "Mitochondrial stress"
+    },
+    "choices": {
+      "A": "1 and 3",
+      "B": "2 and 1",
+      "C": "2 and 4",
+      "D": "3 and 1",
+      "E": "1 and 2"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "2 and 4",
+      "indices": [
+        2,
+        4
+      ]
+    }
+  },
+  {
+    "id": 37,
+    "question": "Chronic oxidative stress leads to neuronal death through ______ and subsequent ______.",
+    "options": {
+      "1": "Mitochondrial dysfunction",
+      "2": "DNA damage",
+      "3": "Neuroinflammation",
+      "4": "Synaptic loss"
+    },
+    "choices": {
+      "A": "1 and 4",
+      "B": "1 and 2",
+      "C": "2 and 3",
+      "D": "3 and 4",
+      "E": "2 and 4"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "1 and 2",
+      "indices": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "id": 38,
+    "question": "Type 2 diabetes impairs brain function by promoting ______ followed by ______.",
+    "options": {
+      "1": "Endothelial damage",
+      "2": "Insulin resistance",
+      "3": "Neurofibrillary tangles",
+      "4": "Cognitive decline"
+    },
+    "choices": {
+      "A": "1 and 2",
+      "B": "2 and 3",
+      "C": "3 and 4",
+      "D": "2 and 4",
+      "E": "1 and 3"
+    },
+    "answer": {
+      "letter": "D",
+      "text": "2 and 4",
+      "indices": [
+        2,
+        4
+      ]
+    }
+  },
+  {
+    "id": 39,
+    "question": "Neuroinflammation contributes to tau pathology through activation of ______ and resulting ______.",
+    "options": {
+      "1": "Microglia",
+      "2": "Oxidative stress",
+      "3": "Synaptic repair",
+      "4": "BBB dysfunction"
+    },
+    "choices": {
+      "A": "1 and 2",
+      "B": "2 and 1",
+      "C": "3 and 4",
+      "D": "4 and 2",
+      "E": "2 and 3"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "1 and 2",
+      "indices": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "id": 40,
+    "question": "APOE ε4 influences Alzheimer’s pathology by inducing ______ which leads to ______.",
+    "options": {
+      "1": "Lipid dysregulation",
+      "2": "Amyloid accumulation",
+      "3": "Tau dephosphorylation",
+      "4": "Neurogenesis"
+    },
+    "choices": {
+      "A": "1 and 2",
+      "B": "1 and 3",
+      "C": "3 and 2",
+      "D": "2 and 4",
+      "E": "2 and 1"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "1 and 2",
+      "indices": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "id": 41,
+    "question": "Reduced PI3K–AKT activity worsens endothelial health through increased ______ that causes ______.",
+    "options": {
+      "1": "VCAM1 expression",
+      "2": "BBB dysfunction",
+      "3": "Neuroinflammation",
+      "4": "Tau phosphorylation"
+    },
+    "choices": {
+      "A": "1 and 2",
+      "B": "2 and 3",
+      "C": "3 and 4",
+      "D": "1 and 3",
+      "E": "2 and 4"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "1 and 2",
+      "indices": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "id": 42,
+    "question": "Aging increases dementia risk by promoting ______ leading to ______.",
+    "options": {
+      "1": "Synaptic pruning",
+      "2": "Brain network disruption",
+      "3": "Cognitive decline",
+      "4": "Amyloid buildup"
+    },
+    "choices": {
+      "A": "1 and 3",
+      "B": "2 and 3",
+      "C": "4 and 2",
+      "D": "3 and 4",
+      "E": "2 and 4"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "2 and 3",
+      "indices": [
+        2,
+        3
+      ]
+    }
+  },
+  {
+    "id": 43,
+    "question": "Prolonged hyperinsulinemia causes neurodegeneration through ______ and ______.",
+    "options": {
+      "1": "Insulin resistance",
+      "2": "Oxidative stress",
+      "3": "Neuroinflammation",
+      "4": "Mitochondrial failure"
+    },
+    "choices": {
+      "A": "1 and 3",
+      "B": "2 and 4",
+      "C": "3 and 4",
+      "D": "1 and 2",
+      "E": "1 and 4"
+    },
+    "answer": {
+      "letter": "E",
+      "text": "1 and 4",
+      "indices": [
+        1,
+        4
+      ]
+    }
+  },
+  {
+    "id": 44,
+    "question": "Vascular stiffness affects cognition through ______ resulting in ______.",
+    "options": {
+      "1": "Reduced cerebral flow",
+      "2": "Oxidative stress",
+      "3": "Neuronal loss",
+      "4": "Tau clearance"
+    },
+    "choices": {
+      "A": "1 and 3",
+      "B": "2 and 4",
+      "C": "1 and 2",
+      "D": "4 and 3",
+      "E": "2 and 3"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "1 and 3",
+      "indices": [
+        1,
+        3
+      ]
+    }
+  },
+  {
+    "id": 45,
+    "question": "Mitochondrial dysfunction drives Alzheimer’s pathology through ______ causing ______.",
+    "options": {
+      "1": "Oxidative stress",
+      "2": "Neuronal death",
+      "3": "BBB leak",
+      "4": "PI3K suppression"
+    },
+    "choices": {
+      "A": "1 and 2",
+      "B": "3 and 2",
+      "C": "4 and 2",
+      "D": "1 and 4",
+      "E": "2 and 3"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "1 and 2",
+      "indices": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "id": 46,
+    "question": "Chronic inflammation exacerbates cognitive decline by producing ______ which triggers ______.",
+    "options": {
+      "1": "Cytokine storm",
+      "2": "Tau phosphorylation",
+      "3": "Glial activation",
+      "4": "Amyloid buildup"
+    },
+    "choices": {
+      "A": "1 and 3",
+      "B": "3 and 4",
+      "C": "2 and 4",
+      "D": "1 and 2",
+      "E": "1 and 4"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "3 and 4",
+      "indices": [
+        3,
+        4
+      ]
+    }
+  },
+  {
+    "id": 47,
+    "question": "Insulin signaling loss leads to neuronal energy failure through ______ and ______.",
+    "options": {
+      "1": "Glucose transport reduction",
+      "2": "Mitochondrial dysfunction",
+      "3": "Tau dephosphorylation",
+      "4": "Oxidative stress"
+    },
+    "choices": {
+      "A": "1 and 2",
+      "B": "1 and 4",
+      "C": "2 and 4",
+      "D": "1 and 3",
+      "E": "2 and 3"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "1 and 2",
+      "indices": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "id": 48,
+    "question": "High FX protein levels increase Alzheimer’s risk via ______ leading to ______.",
+    "options": {
+      "1": "Amyloid accumulation",
+      "2": "Neuroinflammation",
+      "3": "Tau phosphorylation",
+      "4": "BBB dysfunction"
+    },
+    "choices": {
+      "A": "1 and 2",
+      "B": "1 and 3",
+      "C": "3 and 4",
+      "D": "4 and 2",
+      "E": "2 and 3"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "1 and 3",
+      "indices": [
+        1,
+        3
+      ]
+    }
+  },
+  {
+    "id": 49,
+    "question": "BBB dysfunction promotes Alzheimer’s progression through ______ that causes ______.",
+    "options": {
+      "1": "Immune infiltration",
+      "2": "Neuroinflammation",
+      "3": "Tau dephosphorylation",
+      "4": "Amyloid clearance"
+    },
+    "choices": {
+      "A": "1 and 2",
+      "B": "1 and 3",
+      "C": "2 and 4",
+      "D": "4 and 1",
+      "E": "3 and 2"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "1 and 2",
+      "indices": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "id": 50,
+    "question": "Chronic stress contributes to Alzheimer’s disease through ______ followed by ______.",
+    "options": {
+      "1": "HPA-axis dysregulation",
+      "2": "Insulin resistance",
+      "3": "Cortisol imbalance",
+      "4": "Oxidative stress"
+    },
+    "choices": {
+      "A": "1 and 2",
+      "B": "1 and 3",
+      "C": "3 and 4",
+      "D": "2 and 4",
+      "E": "1 and 4"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "1 and 2",
+      "indices": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "id": 51,
+    "question": "Insulin resistance amplifies tau pathology through increased ______ leading to ______.",
+    "options": {
+      "1": "Oxidative stress",
+      "2": "Neuroinflammation",
+      "3": "Glucose transport",
+      "4": "BBB dysfunction"
+    },
+    "choices": {
+      "A": "1 and 3",
+      "B": "1 and 2",
+      "C": "2 and 4",
+      "D": "4 and 1",
+      "E": "3 and 2"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "1 and 2",
+      "indices": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "id": 52,
+    "question": "Chronic oxidative stress accelerates Alzheimer’s progression by triggering ______ which results in ______.",
+    "options": {
+      "1": "Tau phosphorylation",
+      "2": "Mitochondrial failure",
+      "3": "DNA damage",
+      "4": "Synaptic loss"
+    },
+    "choices": {
+      "A": "1 and 2",
+      "B": "2 and 3",
+      "C": "3 and 4",
+      "D": "1 and 4",
+      "E": "2 and 4"
+    },
+    "answer": {
+      "letter": "D",
+      "text": "1 and 4",
+      "indices": [
+        1,
+        4
+      ]
+    }
+  },
+  {
+    "id": 53,
+    "question": "Aging contributes to memory loss through ______ that culminates in ______.",
+    "options": {
+      "1": "Brain network disruption",
+      "2": "Cognitive decline",
+      "3": "Tau clearance",
+      "4": "Oxidative imbalance"
+    },
+    "choices": {
+      "A": "1 and 2",
+      "B": "1 and 4",
+      "C": "4 and 3",
+      "D": "3 and 2",
+      "E": "2 and 3"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "1 and 2",
+      "indices": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "id": 54,
+    "question": "Endothelial insulin resistance promotes Alzheimer’s pathology through ______ followed by ______.",
+    "options": {
+      "1": "BBB dysfunction",
+      "2": "Neuroinflammation",
+      "3": "Tau stabilization",
+      "4": "Synaptic loss"
+    },
+    "choices": {
+      "A": "1 and 3",
+      "B": "1 and 2",
+      "C": "3 and 4",
+      "D": "2 and 3",
+      "E": "2 and 4"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "1 and 2",
+      "indices": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "id": 55,
+    "question": "Type 2 diabetes induces cognitive decline through ______ that provokes ______.",
+    "options": {
+      "1": "Vascular stiffness",
+      "2": "Insulin resistance",
+      "3": "Amyloid buildup",
+      "4": "Neuroinflammation"
+    },
+    "choices": {
+      "A": "1 and 4",
+      "B": "2 and 3",
+      "C": "2 and 4",
+      "D": "3 and 4",
+      "E": "1 and 3"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "2 and 4",
+      "indices": [
+        2,
+        4
+      ]
+    }
+  },
+  {
+    "id": 56,
+    "question": "Mitochondrial dysfunction fosters Alzheimer’s development via ______ which causes ______.",
+    "options": {
+      "1": "Oxidative stress",
+      "2": "Neuronal death",
+      "3": "PI3K suppression",
+      "4": "Amyloid removal"
+    },
+    "choices": {
+      "A": "1 and 4",
+      "B": "1 and 2",
+      "C": "3 and 4",
+      "D": "1 and 3",
+      "E": "2 and 3"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "1 and 2",
+      "indices": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "id": 57,
+    "question": "Neuroinflammation deepens cognitive decline through ______ leading to ______.",
+    "options": {
+      "1": "Glial activation",
+      "2": "Synaptic failure",
+      "3": "Tau clearance",
+      "4": "BBB strengthening"
+    },
+    "choices": {
+      "A": "1 and 3",
+      "B": "2 and 4",
+      "C": "3 and 1",
+      "D": "1 and 2",
+      "E": "4 and 2"
+    },
+    "answer": {
+      "letter": "D",
+      "text": "1 and 2",
+      "indices": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "id": 58,
+    "question": "APOE ε4 intensifies Alzheimer’s pathology through ______ resulting in ______.",
+    "options": {
+      "1": "Lipid dysregulation",
+      "2": "Amyloid deposition",
+      "3": "BBB repair",
+      "4": "Neurogenesis"
+    },
+    "choices": {
+      "A": "1 and 2",
+      "B": "2 and 3",
+      "C": "3 and 4",
+      "D": "4 and 1",
+      "E": "2 and 4"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "1 and 2",
+      "indices": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "id": 59,
+    "question": "Elevated FX protein contributes to cognitive decline by enhancing ______ which leads to ______.",
+    "options": {
+      "1": "Amyloid aggregation",
+      "2": "Tau phosphorylation",
+      "3": "BBB dysfunction",
+      "4": "VCAM1 expression"
+    },
+    "choices": {
+      "A": "1 and 2",
+      "B": "2 and 3",
+      "C": "1 and 3",
+      "D": "3 and 4",
+      "E": "4 and 2"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "1 and 2",
+      "indices": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "id": 60,
+    "question": "Hyperglycemia worsens Alzheimer’s pathology by causing ______ and subsequent ______.",
+    "options": {
+      "1": "Insulin resistance",
+      "2": "BBB dysfunction",
+      "3": "Neuroinflammation",
+      "4": "Amyloid-β accumulation"
+    },
+    "choices": {
+      "A": "1 and 4",
+      "B": "3 and 4",
+      "C": "2 and 3",
+      "D": "1 and 3",
+      "E": "1 and 2"
+    },
+    "answer": {
+      "letter": "D",
+      "text": "1 and 3",
+      "indices": [
+        1,
+        3
+      ]
+    }
+  },
+  {
+    "id": 61,
+    "question": "Prolonged inflammation deteriorates brain integrity through ______ and then ______.",
+    "options": {
+      "1": "Cytokine release",
+      "2": "Oxidative stress",
+      "3": "Neuronal loss",
+      "4": "Amyloid clearance"
+    },
+    "choices": {
+      "A": "1 and 4",
+      "B": "2 and 4",
+      "C": "1 and 3",
+      "D": "2 and 3",
+      "E": "3 and 2"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "1 and 3",
+      "indices": [
+        1,
+        3
+      ]
+    }
+  },
+  {
+    "id": 62,
+    "question": "Vascular stiffness promotes dementia through ______ leading to ______.",
+    "options": {
+      "1": "Reduced blood flow",
+      "2": "Synaptic damage",
+      "3": "Tau phosphorylation",
+      "4": "BBB repair"
+    },
+    "choices": {
+      "A": "1 and 2",
+      "B": "2 and 4",
+      "C": "3 and 4",
+      "D": "1 and 4",
+      "E": "1 and 3"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "1 and 2",
+      "indices": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "id": 63,
+    "question": "Loss of insulin signaling promotes neurodegeneration by inducing ______ that drives ______.",
+    "options": {
+      "1": "Glucose deprivation",
+      "2": "Oxidative stress",
+      "3": "Neuroinflammation",
+      "4": "Synaptic repair"
+    },
+    "choices": {
+      "A": "1 and 4",
+      "B": "1 and 2",
+      "C": "2 and 3",
+      "D": "3 and 4",
+      "E": "1 and 3"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "2 and 3",
+      "indices": [
+        2,
+        3
+      ]
+    }
+  },
+  {
+    "id": 64,
+    "question": "Aging-related oxidative imbalance leads to Alzheimer’s through ______ followed by ______.",
+    "options": {
+      "1": "DNA damage",
+      "2": "Mitochondrial dysfunction",
+      "3": "Synaptic gain",
+      "4": "Tau hyperphosphorylation"
+    },
+    "choices": {
+      "A": "1 and 2",
+      "B": "2 and 4",
+      "C": "4 and 3",
+      "D": "3 and 2",
+      "E": "1 and 4"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "2 and 4",
+      "indices": [
+        2,
+        4
+      ]
+    }
+  },
+  {
+    "id": 65,
+    "question": "BBB disruption promotes Alzheimer’s disease via ______ resulting in ______.",
+    "options": {
+      "1": "Immune infiltration",
+      "2": "Neuroinflammation",
+      "3": "Tau phosphorylation",
+      "4": "Synaptic loss"
+    },
+    "choices": {
+      "A": "1 and 2",
+      "B": "2 and 3",
+      "C": "1 and 4",
+      "D": "3 and 4",
+      "E": "2 and 4"
+    },
+    "answer": {
+      "letter": "E",
+      "text": "2 and 4",
+      "indices": [
+        2,
+        4
+      ]
+    }
+  },
+  {
+    "id": 66,
+    "question": "Insulin resistance contributes to neuronal death through ______ leading to ______.",
+    "options": {
+      "1": "Mitochondrial dysfunction",
+      "2": "Oxidative stress",
+      "3": "Neuroinflammation",
+      "4": "Tau phosphorylation"
+    },
+    "choices": {
+      "A": "1 and 3",
+      "B": "2 and 4",
+      "C": "3 and 2",
+      "D": "1 and 2",
+      "E": "2 and 3"
+    },
+    "answer": {
+      "letter": "D",
+      "text": "1 and 2",
+      "indices": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "id": 67,
+    "question": "Aging accelerates Alzheimer’s progression via ______ that promotes ______.",
+    "options": {
+      "1": "Network disruption",
+      "2": "Amyloid buildup",
+      "3": "Synaptic repair",
+      "4": "BBB dysfunction"
+    },
+    "choices": {
+      "A": "1 and 3",
+      "B": "1 and 2",
+      "C": "2 and 3",
+      "D": "3 and 4",
+      "E": "2 and 4"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "1 and 2",
+      "indices": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "id": 68,
+    "question": "Endothelial insulin resistance increases cognitive vulnerability through ______ and subsequent ______.",
+    "options": {
+      "1": "BBB permeability",
+      "2": "Neuroinflammation",
+      "3": "Synaptic restoration",
+      "4": "Tau hyperphosphorylation"
+    },
+    "choices": {
+      "A": "1 and 3",
+      "B": "3 and 4",
+      "C": "1 and 2",
+      "D": "2 and 4",
+      "E": "2 and 3"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "1 and 2",
+      "indices": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "id": 69,
+    "question": "Elevated HbA1c promotes Alzheimer’s pathology by inducing ______ that triggers ______.",
+    "options": {
+      "1": "Oxidative stress",
+      "2": "Cognitive decline",
+      "3": "Neuroinflammation",
+      "4": "Amyloid aggregation"
+    },
+    "choices": {
+      "A": "1 and 2",
+      "B": "1 and 3",
+      "C": "3 and 4",
+      "D": "2 and 4",
+      "E": "1 and 4"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "1 and 3",
+      "indices": [
+        1,
+        3
+      ]
+    }
+  },
+  {
+    "id": 70,
+    "question": "Chronic inflammation mediates neurodegeneration through ______ and ______.",
+    "options": {
+      "1": "Glial activation",
+      "2": "Tau phosphorylation",
+      "3": "Synaptic pruning",
+      "4": "BBB leak"
+    },
+    "choices": {
+      "A": "1 and 3",
+      "B": "2 and 3",
+      "C": "3 and 4",
+      "D": "1 and 2",
+      "E": "1 and 4"
+    },
+    "answer": {
+      "letter": "E",
+      "text": "1 and 4",
+      "indices": [
+        1,
+        4
+      ]
+    }
+  },
+  {
+    "id": 71,
+    "question": "Type 2 diabetes heightens Alzheimer’s risk through ______ leading to ______.",
+    "options": {
+      "1": "Insulin resistance",
+      "2": "Neuroinflammation",
+      "3": "VCAM1 activation",
+      "4": "Amyloid clearance"
+    },
+    "choices": {
+      "A": "1 and 3",
+      "B": "1 and 2",
+      "C": "2 and 3",
+      "D": "3 and 4",
+      "E": "1 and 4"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "1 and 2",
+      "indices": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "id": 72,
+    "question": "APOE ε4 exacerbates brain aging via ______ that results in ______.",
+    "options": {
+      "1": "Lipid dysregulation",
+      "2": "Amyloid-β retention",
+      "3": "Tau clearance",
+      "4": "BBB strengthening"
+    },
+    "choices": {
+      "A": "1 and 3",
+      "B": "1 and 2",
+      "C": "3 and 4",
+      "D": "4 and 1",
+      "E": "2 and 4"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "1 and 2",
+      "indices": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "id": 73,
+    "question": "Mitochondrial dysfunction leads to cognitive decline through ______ followed by ______.",
+    "options": {
+      "1": "Oxidative stress",
+      "2": "Neuronal loss",
+      "3": "Amyloid accumulation",
+      "4": "Tau phosphorylation"
+    },
+    "choices": {
+      "A": "1 and 3",
+      "B": "1 and 2",
+      "C": "3 and 4",
+      "D": "2 and 4",
+      "E": "4 and 2"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "1 and 2",
+      "indices": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "id": 74,
+    "question": "Hyperglycemia promotes Alzheimer’s pathology through ______ and then ______.",
+    "options": {
+      "1": "Insulin resistance",
+      "2": "Vascular stiffness",
+      "3": "Neuroinflammation",
+      "4": "Cognitive impairment"
+    },
+    "choices": {
+      "A": "1 and 3",
+      "B": "2 and 3",
+      "C": "3 and 4",
+      "D": "1 and 4",
+      "E": "1 and 2"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "1 and 3",
+      "indices": [
+        1,
+        3
+      ]
+    }
+  },
+  {
+    "id": 75,
+    "question": "Aging-related metabolic stress damages neurons via ______ causing ______.",
+    "options": {
+      "1": "Mitochondrial dysfunction",
+      "2": "Tau hyperphosphorylation",
+      "3": "Oxidative stress",
+      "4": "Synaptic loss"
+    },
+    "choices": {
+      "A": "1 and 2",
+      "B": "3 and 4",
+      "C": "1 and 3",
+      "D": "4 and 2",
+      "E": "2 and 3"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "1 and 3",
+      "indices": [
+        1,
+        3
+      ]
+    }
+  },
+  {
+    "id": 76,
+    "question": "Neuroinflammation disrupts memory formation by stimulating ______ that leads to ______.",
+    "options": {
+      "1": "Cytokine overproduction",
+      "2": "Synaptic failure",
+      "3": "Oxidative balance",
+      "4": "Neurogenesis"
+    },
+    "choices": {
+      "A": "1 and 4",
+      "B": "1 and 2",
+      "C": "2 and 3",
+      "D": "4 and 3",
+      "E": "3 and 1"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "1 and 2",
+      "indices": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "id": 77,
+    "question": "Endothelial dysfunction worsens Alzheimer’s disease through ______ and ______.",
+    "options": {
+      "1": "BBB leak",
+      "2": "Amyloid accumulation",
+      "3": "Tau phosphorylation",
+      "4": "VCAM1 expression"
+    },
+    "choices": {
+      "A": "1 and 3",
+      "B": "1 and 2",
+      "C": "3 and 4",
+      "D": "1 and 4",
+      "E": "2 and 4"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "1 and 2",
+      "indices": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "id": 78,
+    "question": "Chronic oxidative stress undermines neuronal survival by causing ______ which induces ______.",
+    "options": {
+      "1": "Mitochondrial failure",
+      "2": "Synaptic collapse",
+      "3": "Tau dephosphorylation",
+      "4": "BBB repair"
+    },
+    "choices": {
+      "A": "1 and 3",
+      "B": "3 and 4",
+      "C": "1 and 2",
+      "D": "2 and 4",
+      "E": "2 and 3"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "1 and 2",
+      "indices": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "id": 79,
+    "question": "Loss of insulin signaling damages cognition through ______ followed by ______.",
+    "options": {
+      "1": "Reduced glucose uptake",
+      "2": "Energy deficit",
+      "3": "Neurogenesis",
+      "4": "Tau stabilization"
+    },
+    "choices": {
+      "A": "1 and 3",
+      "B": "2 and 3",
+      "C": "1 and 2",
+      "D": "3 and 4",
+      "E": "2 and 4"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "1 and 2",
+      "indices": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "id": 80,
+    "question": "PI3K–AKT suppression contributes to Alzheimer’s pathology via ______ causing ______.",
+    "options": {
+      "1": "VCAM1 upregulation",
+      "2": "Endothelial stress",
+      "3": "BBB dysfunction",
+      "4": "Oxidative stress"
+    },
+    "choices": {
+      "A": "1 and 2",
+      "B": "1 and 3",
+      "C": "2 and 4",
+      "D": "3 and 4",
+      "E": "4 and 2"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "1 and 2",
+      "indices": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "id": 81,
+    "question": "Chronic hyperglycemia induces neurodegeneration via ______ followed by ______.",
+    "options": {
+      "1": "Oxidative stress",
+      "2": "Insulin resistance",
+      "3": "Neuroinflammation",
+      "4": "Amyloid buildup"
+    },
+    "choices": {
+      "A": "1 and 3",
+      "B": "2 and 3",
+      "C": "2 and 4",
+      "D": "1 and 4",
+      "E": "3 and 4"
+    },
+    "answer": {
+      "letter": "E",
+      "text": "3 and 4",
+      "indices": [
+        3,
+        4
+      ]
+    }
+  },
+  {
+    "id": 82,
+    "question": "Endothelial dysfunction heightens Alzheimer’s pathology through ______ which provokes ______.",
+    "options": {
+      "1": "BBB leakage",
+      "2": "Neuroinflammation",
+      "3": "Synaptic damage",
+      "4": "VCAM1 activation"
+    },
+    "choices": {
+      "A": "1 and 2",
+      "B": "1 and 3",
+      "C": "3 and 4",
+      "D": "2 and 4",
+      "E": "2 and 3"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "1 and 2",
+      "indices": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "id": 83,
+    "question": "Mitochondrial failure accelerates cognitive decline by increasing ______ leading to ______.",
+    "options": {
+      "1": "ROS generation",
+      "2": "Neuronal apoptosis",
+      "3": "Tau phosphorylation",
+      "4": "Amyloid clearance"
+    },
+    "choices": {
+      "A": "1 and 3",
+      "B": "1 and 2",
+      "C": "2 and 3",
+      "D": "3 and 4",
+      "E": "4 and 2"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "1 and 2",
+      "indices": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "id": 84,
+    "question": "Type 2 diabetes fosters Alzheimer’s disease through ______ and subsequent ______.",
+    "options": {
+      "1": "Insulin resistance",
+      "2": "Vascular stiffness",
+      "3": "BBB dysfunction",
+      "4": "Neuroinflammation"
+    },
+    "choices": {
+      "A": "1 and 4",
+      "B": "2 and 3",
+      "C": "1 and 2",
+      "D": "3 and 4",
+      "E": "2 and 4"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "2 and 3",
+      "indices": [
+        2,
+        3
+      ]
+    }
+  },
+  {
+    "id": 85,
+    "question": "APOE ε4 aggravates cognitive decline via ______ resulting in ______.",
+    "options": {
+      "1": "Lipid dysregulation",
+      "2": "Amyloid deposition",
+      "3": "Tau clearance",
+      "4": "Synaptic failure"
+    },
+    "choices": {
+      "A": "1 and 3",
+      "B": "1 and 2",
+      "C": "2 and 4",
+      "D": "3 and 4",
+      "E": "4 and 1"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "2 and 4",
+      "indices": [
+        2,
+        4
+      ]
+    }
+  },
+  {
+    "id": 86,
+    "question": "Prolonged oxidative stress damages neurons through ______ that triggers ______.",
+    "options": {
+      "1": "Mitochondrial dysfunction",
+      "2": "Tau hyperphosphorylation",
+      "3": "Neuroinflammation",
+      "4": "DNA damage"
+    },
+    "choices": {
+      "A": "1 and 3",
+      "B": "2 and 4",
+      "C": "1 and 2",
+      "D": "3 and 4",
+      "E": "4 and 1"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "1 and 3",
+      "indices": [
+        1,
+        3
+      ]
+    }
+  },
+  {
+    "id": 87,
+    "question": "Chronic inflammation impairs cognition by stimulating ______ and causing ______.",
+    "options": {
+      "1": "Cytokine release",
+      "2": "Glial activation",
+      "3": "BBB breakdown",
+      "4": "Tau aggregation"
+    },
+    "choices": {
+      "A": "1 and 2",
+      "B": "2 and 3",
+      "C": "1 and 3",
+      "D": "2 and 4",
+      "E": "3 and 4"
+    },
+    "answer": {
+      "letter": "D",
+      "text": "2 and 4",
+      "indices": [
+        2,
+        4
+      ]
+    }
+  },
+  {
+    "id": 88,
+    "question": "Insulin resistance drives vascular damage through ______ leading to ______.",
+    "options": {
+      "1": "PI3K–AKT suppression",
+      "2": "VCAM1 upregulation",
+      "3": "Endothelial stress",
+      "4": "BBB dysfunction"
+    },
+    "choices": {
+      "A": "1 and 3",
+      "B": "1 and 4",
+      "C": "2 and 4",
+      "D": "1 and 2",
+      "E": "2 and 3"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "2 and 4",
+      "indices": [
+        2,
+        4
+      ]
+    }
+  },
+  {
+    "id": 89,
+    "question": "Aging promotes Alzheimer’s pathology by causing ______ which results in ______.",
+    "options": {
+      "1": "Brain network instability",
+      "2": "Cognitive decline",
+      "3": "Tau phosphorylation",
+      "4": "Amyloid accumulation"
+    },
+    "choices": {
+      "A": "1 and 2",
+      "B": "1 and 3",
+      "C": "3 and 4",
+      "D": "1 and 4",
+      "E": "2 and 3"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "1 and 3",
+      "indices": [
+        1,
+        3
+      ]
+    }
+  },
+  {
+    "id": 90,
+    "question": "Hyperinsulinemia contributes to neurodegeneration through ______ that provokes ______.",
+    "options": {
+      "1": "Insulin resistance",
+      "2": "Neuroinflammation",
+      "3": "Oxidative stress",
+      "4": "Tau hyperphosphorylation"
+    },
+    "choices": {
+      "A": "1 and 3",
+      "B": "2 and 4",
+      "C": "1 and 2",
+      "D": "3 and 4",
+      "E": "4 and 2"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "1 and 2",
+      "indices": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "id": 91,
+    "question": "Loss of metabolic control worsens Alzheimer’s progression via ______ causing ______.",
+    "options": {
+      "1": "Mitochondrial stress",
+      "2": "Oxidative imbalance",
+      "3": "Cognitive impairment",
+      "4": "Tau phosphorylation"
+    },
+    "choices": {
+      "A": "1 and 2",
+      "B": "2 and 4",
+      "C": "1 and 3",
+      "D": "3 and 4",
+      "E": "1 and 4"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "2 and 4",
+      "indices": [
+        2,
+        4
+      ]
+    }
+  },
+  {
+    "id": 92,
+    "question": "Neuroinflammation mediates neuronal loss through ______ and subsequent ______.",
+    "options": {
+      "1": "Glial activation",
+      "2": "Oxidative stress",
+      "3": "Amyloid accumulation",
+      "4": "Synaptic damage"
+    },
+    "choices": {
+      "A": "1 and 3",
+      "B": "2 and 4",
+      "C": "1 and 2",
+      "D": "3 and 4",
+      "E": "1 and 4"
+    },
+    "answer": {
+      "letter": "E",
+      "text": "1 and 4",
+      "indices": [
+        1,
+        4
+      ]
+    }
+  },
+  {
+    "id": 93,
+    "question": "BBB dysfunction worsens Alzheimer’s pathology by allowing ______ which induces ______.",
+    "options": {
+      "1": "Immune cell infiltration",
+      "2": "Neuroinflammation",
+      "3": "Synaptic growth",
+      "4": "Tau clearance"
+    },
+    "choices": {
+      "A": "1 and 3",
+      "B": "2 and 3",
+      "C": "1 and 2",
+      "D": "3 and 4",
+      "E": "4 and 2"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "1 and 2",
+      "indices": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "id": 94,
+    "question": "PI3K–AKT inhibition leads to Alzheimer’s features through ______ followed by ______.",
+    "options": {
+      "1": "VCAM1 elevation",
+      "2": "Endothelial stress",
+      "3": "Tau aggregation",
+      "4": "Oxidative stress"
+    },
+    "choices": {
+      "A": "1 and 2",
+      "B": "2 and 3",
+      "C": "1 and 4",
+      "D": "3 and 4",
+      "E": "4 and 1"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "1 and 2",
+      "indices": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "id": 95,
+    "question": "Aging-linked mitochondrial decline fosters dementia through ______ causing ______.",
+    "options": {
+      "1": "Energy deficit",
+      "2": "Oxidative stress",
+      "3": "Neurodegeneration",
+      "4": "Amyloid buildup"
+    },
+    "choices": {
+      "A": "1 and 3",
+      "B": "1 and 2",
+      "C": "2 and 4",
+      "D": "3 and 4",
+      "E": "1 and 4"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "1 and 2",
+      "indices": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "id": 96,
+    "question": "Insulin resistance accelerates Alzheimer’s progression via ______ that initiates ______.",
+    "options": {
+      "1": "Neuroinflammation",
+      "2": "Tau phosphorylation",
+      "3": "BBB leakage",
+      "4": "Synaptic repair"
+    },
+    "choices": {
+      "A": "1 and 2",
+      "B": "1 and 3",
+      "C": "2 and 3",
+      "D": "1 and 4",
+      "E": "3 and 4"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "1 and 3",
+      "indices": [
+        1,
+        3
+      ]
+    }
+  },
+  {
+    "id": 97,
+    "question": "Aging promotes cognitive decline through persistent ______ leading to ______.",
+    "options": {
+      "1": "Network disruption",
+      "2": "Amyloid buildup",
+      "3": "Neuroinflammation",
+      "4": "Cognitive loss"
+    },
+    "choices": {
+      "A": "1 and 2",
+      "B": "2 and 3",
+      "C": "1 and 3",
+      "D": "1 and 4",
+      "E": "2 and 4"
+    },
+    "answer": {
+      "letter": "D",
+      "text": "1 and 4",
+      "indices": [
+        1,
+        4
+      ]
+    }
+  },
+  {
+    "id": 98,
+    "question": "Chronic hyperinsulinemia contributes to Alzheimer’s pathology through ______ followed by ______.",
+    "options": {
+      "1": "Insulin resistance",
+      "2": "Neuroinflammation",
+      "3": "BBB dysfunction",
+      "4": "Oxidative stress"
+    },
+    "choices": {
+      "A": "1 and 2",
+      "B": "2 and 3",
+      "C": "3 and 4",
+      "D": "1 and 4",
+      "E": "2 and 4"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "1 and 2",
+      "indices": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "id": 99,
+    "question": "Endothelial insulin resistance fosters Alzheimer’s disease via ______ causing ______.",
+    "options": {
+      "1": "BBB permeability",
+      "2": "Immune infiltration",
+      "3": "Neuroinflammation",
+      "4": "Tau aggregation"
+    },
+    "choices": {
+      "A": "1 and 3",
+      "B": "1 and 2",
+      "C": "2 and 3",
+      "D": "3 and 4",
+      "E": "1 and 4"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "1 and 3",
+      "indices": [
+        1,
+        3
+      ]
+    }
+  },
+  {
+    "id": 100,
+    "question": "Elevated HbA1c levels contribute to dementia by promoting ______ which results in ______.",
+    "options": {
+      "1": "Vascular stiffness",
+      "2": "Neuroinflammation",
+      "3": "Cognitive impairment",
+      "4": "Tau hyperphosphorylation"
+    },
+    "choices": {
+      "A": "1 and 3",
+      "B": "1 and 2",
+      "C": "2 and 3",
+      "D": "3 and 4",
+      "E": "2 and 4"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "1 and 2",
+      "indices": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "id": 101,
+    "question": "Chronic oxidative stress damages neurons through ______ and subsequent ______.",
+    "options": {
+      "1": "Mitochondrial failure",
+      "2": "Neuronal apoptosis",
+      "3": "BBB restoration",
+      "4": "Amyloid clearance"
+    },
+    "choices": {
+      "A": "1 and 2",
+      "B": "2 and 3",
+      "C": "3 and 4",
+      "D": "1 and 4",
+      "E": "2 and 4"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "1 and 2",
+      "indices": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "id": 102,
+    "question": "APOE ε4 promotes Alzheimer’s pathology through ______ that drives ______.",
+    "options": {
+      "1": "Lipid dysregulation",
+      "2": "Amyloid-β accumulation",
+      "3": "Tau dephosphorylation",
+      "4": "Synaptic pruning"
+    },
+    "choices": {
+      "A": "1 and 3",
+      "B": "1 and 2",
+      "C": "2 and 4",
+      "D": "4 and 3",
+      "E": "2 and 3"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "1 and 2",
+      "indices": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "id": 103,
+    "question": "Neuroinflammation accelerates neuronal loss via ______ leading to ______.",
+    "options": {
+      "1": "Cytokine surge",
+      "2": "Oxidative stress",
+      "3": "Mitochondrial repair",
+      "4": "Synaptic gain"
+    },
+    "choices": {
+      "A": "1 and 2",
+      "B": "1 and 3",
+      "C": "2 and 4",
+      "D": "3 and 4",
+      "E": "1 and 4"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "1 and 2",
+      "indices": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "id": 104,
+    "question": "Vascular stiffness worsens cognition by producing ______ and causing ______.",
+    "options": {
+      "1": "Reduced cerebral perfusion",
+      "2": "Oxidative stress",
+      "3": "Synaptic damage",
+      "4": "BBB tightening"
+    },
+    "choices": {
+      "A": "1 and 3",
+      "B": "2 and 4",
+      "C": "1 and 4",
+      "D": "3 and 4",
+      "E": "1 and 2"
+    },
+    "answer": {
+      "letter": "E",
+      "text": "1 and 2",
+      "indices": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "id": 105,
+    "question": "Mitochondrial dysfunction increases Alzheimer’s risk through ______ followed by ______.",
+    "options": {
+      "1": "ROS generation",
+      "2": "DNA damage",
+      "3": "Neuroinflammation",
+      "4": "Tau aggregation"
+    },
+    "choices": {
+      "A": "1 and 2",
+      "B": "2 and 3",
+      "C": "1 and 3",
+      "D": "3 and 4",
+      "E": "2 and 4"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "1 and 3",
+      "indices": [
+        1,
+        3
+      ]
+    }
+  },
+  {
+    "id": 106,
+    "question": "Aging drives tau pathology through ______ and subsequent ______.",
+    "options": {
+      "1": "Brain network disruption",
+      "2": "Oxidative stress",
+      "3": "Tau phosphorylation",
+      "4": "Neuroinflammation"
+    },
+    "choices": {
+      "A": "1 and 2",
+      "B": "2 and 3",
+      "C": "3 and 4",
+      "D": "1 and 4",
+      "E": "2 and 4"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "2 and 3",
+      "indices": [
+        2,
+        3
+      ]
+    }
+  },
+  {
+    "id": 107,
+    "question": "PI3K–AKT suppression induces endothelial damage through ______ that provokes ______.",
+    "options": {
+      "1": "VCAM1 expression",
+      "2": "BBB dysfunction",
+      "3": "Amyloid accumulation",
+      "4": "Oxidative stress"
+    },
+    "choices": {
+      "A": "1 and 2",
+      "B": "1 and 4",
+      "C": "2 and 3",
+      "D": "1 and 3",
+      "E": "3 and 4"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "1 and 2",
+      "indices": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "id": 108,
+    "question": "Hyperglycemia contributes to neurodegeneration through ______ leading to ______.",
+    "options": {
+      "1": "Oxidative stress",
+      "2": "Insulin resistance",
+      "3": "Amyloid-β buildup",
+      "4": "Mitochondrial failure"
+    },
+    "choices": {
+      "A": "1 and 3",
+      "B": "2 and 3",
+      "C": "1 and 4",
+      "D": "3 and 4",
+      "E": "1 and 2"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "1 and 4",
+      "indices": [
+        1,
+        4
+      ]
+    }
+  },
+  {
+    "id": 109,
+    "question": "Type 2 diabetes accelerates Alzheimer’s features through ______ followed by ______.",
+    "options": {
+      "1": "Insulin resistance",
+      "2": "Neuroinflammation",
+      "3": "BBB dysfunction",
+      "4": "Tau aggregation"
+    },
+    "choices": {
+      "A": "1 and 3",
+      "B": "1 and 2",
+      "C": "3 and 4",
+      "D": "2 and 4",
+      "E": "2 and 3"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "1 and 2",
+      "indices": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "id": 110,
+    "question": "Prolonged neuroinflammation aggravates Alzheimer’s pathology through ______ that triggers ______.",
+    "options": {
+      "1": "Glial activation",
+      "2": "Tau hyperphosphorylation",
+      "3": "BBB permeability",
+      "4": "Synaptic failure"
+    },
+    "choices": {
+      "A": "1 and 2",
+      "B": "1 and 3",
+      "C": "2 and 4",
+      "D": "3 and 4",
+      "E": "1 and 4"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "1 and 2",
+      "indices": [
+        1,
+        2
+      ]
+    }
+  }
+]

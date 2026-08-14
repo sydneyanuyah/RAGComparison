@@ -1,0 +1,1968 @@
+[
+  {
+    "id": 1,
+    "question": "Pick the two best immediate precursors of amyloid deposition acceleration.",
+    "options": {
+      "1": "Type 2 diabetes",
+      "2": "Lowered interstitial fluid pH",
+      "3": "Reduced sleep spindles",
+      "4": "Cerebral hypoperfusion"
+    },
+    "choices": {
+      "A": "1 and 3",
+      "B": "1 and 2",
+      "C": "2 and 4",
+      "D": "3 and 4"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "1 and 2",
+      "indices": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "question": "What is the relationship between Aβ plaques and cognitive decline best described as?",
+    "options": {},
+    "choices": {
+      "A": "Alzheimer’s disease",
+      "B": "Aging",
+      "C": "Mitochondrial oxidative stress",
+      "D": "Hyperphosphorylation of tau",
+      "E": "Amyloid deposition preceding and correlating with decline"
+    },
+    "answer": {
+      "letter": "E",
+      "text": "Amyloid deposition preceding and correlating with decline",
+      "indices": []
+    }
+  },
+  {
+    "id": 3,
+    "question": "Insulin-degrading enzyme (IDE) competition by excess insulin most directly ____ Aβ clearance, thereby ____ amyloid burden.",
+    "options": {},
+    "choices": {
+      "A": "increases; reducing",
+      "B": "reduces; reducing",
+      "C": "increases; increasing",
+      "D": "stabilizes; stabilizing",
+      "E": "reduces; increasing"
+    },
+    "answer": {
+      "letter": "E",
+      "text": "reduces; increasing",
+      "indices": []
+    }
+  },
+  {
+    "id": 4,
+    "question": "Which two jointly escalate cognitive decline through metabolic–proteinopathy interplay?",
+    "options": {
+      "1": "Insulin resistance",
+      "2": "Amyloid-β accumulation",
+      "3": "APOE-ε4 absence",
+      "4": "Microglial quiescence"
+    },
+    "choices": {
+      "A": "1 and 4",
+      "B": "1 and 2",
+      "C": "2 and 3",
+      "D": "3 and 4"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "1 and 2",
+      "indices": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "question": "Which pair constitutes the most proximal drivers of tau hyperphosphorylation?",
+    "options": {
+      "1": "GSK3β activation",
+      "2": "Mitochondrial dysfunction",
+      "3": "Synaptic pruning",
+      "4": "Aβ plaque presence"
+    },
+    "choices": {
+      "A": "1 and 2",
+      "B": "1 and 4",
+      "C": "2 and 3",
+      "D": "3 and 4"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "1 and 4",
+      "indices": [
+        1,
+        4
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "question": "What does Lower interstitial fluid pH closely lead to?",
+    "options": {},
+    "choices": {
+      "A": "Decreased Aβ aggregation",
+      "B": "Reduced microglial activation",
+      "C": "Enhanced glymphatic clearance",
+      "D": "Accelerated Aβ accumulation",
+      "E": "Improved memory"
+    },
+    "answer": {
+      "letter": "D",
+      "text": "Accelerated Aβ accumulation",
+      "indices": []
+    }
+  },
+  {
+    "id": 7,
+    "question": "Abnormal insulin signaling in the brain primarily results in:",
+    "options": {},
+    "choices": {
+      "A": "Lower GSK3β activity",
+      "B": "Reduced oxidative damage",
+      "C": "Enhanced mitochondrial function",
+      "D": "Higher synaptic resilience",
+      "E": "Reduced Aβ degradation and increased tau phosphorylation"
+    },
+    "answer": {
+      "letter": "E",
+      "text": "Reduced Aβ degradation and increased tau phosphorylation",
+      "indices": []
+    }
+  },
+  {
+    "id": 8,
+    "question": "GSK3β activity is a key kinase for tau; when it is ____, tau becomes ____, promoting tangle formation.",
+    "options": {},
+    "choices": {
+      "A": "inhibited; dephosphorylated",
+      "B": "downregulated; truncated",
+      "C": "activated; hyperphosphorylated",
+      "D": "silenced; acetylated",
+      "E": "unchanged; aggregated"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "activated; hyperphosphorylated",
+      "indices": []
+    }
+  },
+  {
+    "id": 9,
+    "question": "Which two nodes commonly co-mediate the path to neuronal loss?",
+    "options": {
+      "1": "Oxidative stress",
+      "2": "Microglial activation",
+      "3": "High heme intake",
+      "4": "Normal insulin signaling"
+    },
+    "choices": {
+      "A": "1 and 3",
+      "B": "1 and 2",
+      "C": "2 and 4",
+      "D": "3 and 4"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "1 and 2",
+      "indices": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "question": "Which two are direct precursors of neuroinflammation escalation?",
+    "options": {
+      "1": "Aβ oligomers",
+      "2": "Peripheral infection",
+      "3": "Aerobic fitness",
+      "4": "Microglial priming"
+    },
+    "choices": {
+      "A": "1 and 2",
+      "B": "1 and 4",
+      "C": "2 and 3",
+      "D": "3 and 4"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "1 and 4",
+      "indices": [
+        1,
+        4
+      ]
+    }
+  },
+  {
+    "id": 11,
+    "question": "Which pair most directly links to synaptic dysfunction in AD contexts?",
+    "options": {
+      "1": "Tau pathology",
+      "2": "Neuroinflammation",
+      "3": "Peripheral insulin therapy",
+      "4": "Vitamin D sufficiency"
+    },
+    "choices": {
+      "A": "1 and 3",
+      "B": "1 and 2",
+      "C": "2 and 4",
+      "D": "3 and 4"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "1 and 2",
+      "indices": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "id": 12,
+    "question": "What is Microglial activation most directly associated with?",
+    "options": {},
+    "choices": {
+      "A": "Myelin repair",
+      "B": "Tau dephosphorylation",
+      "C": "Lower IDE competition",
+      "D": "Neuroinflammation-driven synaptic loss",
+      "E": "Increased cognitive reserve"
+    },
+    "answer": {
+      "letter": "D",
+      "text": "Neuroinflammation-driven synaptic loss",
+      "indices": []
+    }
+  },
+  {
+    "id": 13,
+    "question": "What is APOE-ε4 carriage most directly tied to?",
+    "options": {},
+    "choices": {
+      "A": "Less Aβ aggregation",
+      "B": "Lower tau burden",
+      "C": "Greater Aβ deposition and impaired clearance",
+      "D": "Reduced risk of AD",
+      "E": "Microglial quiescence"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "Greater Aβ deposition and impaired clearance",
+      "indices": []
+    }
+  },
+  {
+    "id": 14,
+    "question": "Microglial priming makes subsequent inflammatory responses ____, which typically ____ synaptic integrity.",
+    "options": {},
+    "choices": {
+      "A": "weaker; improves",
+      "B": "unchanged; stabilizes",
+      "C": "slower; improves",
+      "D": "delayed; enhances",
+      "E": "stronger; impairs"
+    },
+    "answer": {
+      "letter": "E",
+      "text": "stronger; impairs",
+      "indices": []
+    }
+  },
+  {
+    "id": 15,
+    "question": "Which pair best captures the route to impaired Aβ clearance?",
+    "options": {
+      "1": "Insulin-degrading enzyme (IDE) competition",
+      "2": "Sleep fragmentation",
+      "3": "Enhanced glymphatic flow",
+      "4": "Caloric balance"
+    },
+    "choices": {
+      "A": "1 and 3",
+      "B": "1 and 2",
+      "C": "2 and 4",
+      "D": "3 and 4"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "1 and 2",
+      "indices": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "id": 16,
+    "question": "Mitochondrial dysfunction contributes to ___________.",
+    "options": {},
+    "choices": {
+      "A": "Faster glymphatic flow",
+      "B": "Immediate tau clearance",
+      "C": "IDE up-regulation",
+      "D": "Oxidative stress and neuronal energy failure",
+      "E": "Synaptic potentiation"
+    },
+    "answer": {
+      "letter": "D",
+      "text": "Oxidative stress and neuronal energy failure",
+      "indices": []
+    }
+  },
+  {
+    "id": 17,
+    "question": "Which two nodes most immediately precede executive dysfunction?",
+    "options": {
+      "1": "Hippocampal atrophy",
+      "2": "Frontal tau burden",
+      "3": "Ketone supplementation",
+      "4": "Cognitive reserve increase"
+    },
+    "choices": {
+      "A": "1 and 3",
+      "B": "1 and 2",
+      "C": "2 and 4",
+      "D": "3 and 4"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "1 and 2",
+      "indices": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "id": 18,
+    "question": "In metabolic–amyloid crosstalk, abnormal brain insulin signaling ____ IDE-mediated Aβ catabolism and ____ tau phosphorylation risk.",
+    "options": {},
+    "choices": {
+      "A": "enhances; lowers",
+      "B": "stabilizes; stabilizes",
+      "C": "impairs; increases",
+      "D": "prevents; prevents",
+      "E": "reverses; reduces"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "impairs; increases",
+      "indices": []
+    }
+  },
+  {
+    "id": 19,
+    "question": "Sleep fragmentation impacts AD risk mainly by ___________.",
+    "options": {},
+    "choices": {
+      "A": "Raising cognitive reserve",
+      "B": "Enhancing IDE activity",
+      "C": "Inhibiting GSK3β",
+      "D": "Reducing Aβ clearance during slow-wave sleep",
+      "E": "Eliminating microglial priming"
+    },
+    "answer": {
+      "letter": "D",
+      "text": "Reducing Aβ clearance during slow-wave sleep",
+      "indices": []
+    }
+  },
+  {
+    "id": 20,
+    "question": "What is hippocampal atrophy most proximally linked to?",
+    "options": {},
+    "choices": {
+      "A": "Improved recall",
+      "B": "Lower amyloid load",
+      "C": "Increased executive function",
+      "D": "Reduced tau burden",
+      "E": "Memory impairment"
+    },
+    "answer": {
+      "letter": "E",
+      "text": "Memory impairment",
+      "indices": []
+    }
+  },
+  {
+    "id": 21,
+    "question": "Glymphatic clearance during slow-wave sleep is thought to ____ interstitial Aβ, and sleep fragmentation thereby ____ risk of accumulation.",
+    "options": {},
+    "choices": {
+      "A": "stabilize; stabilizes",
+      "B": "increase; lowers",
+      "C": "reduce; increases",
+      "D": "oxidize; reduces",
+      "E": "sequester; eliminates"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "reduce; increases",
+      "indices": []
+    }
+  },
+  {
+    "id": 22,
+    "question": "Which pair best explains accelerated tau spread (trans-synaptic propagation)?",
+    "options": {
+      "1": "Prion-like seeding",
+      "2": "Impaired autophagy–lysosome pathway",
+      "3": "Reduced GABA synthesis",
+      "4": "Aerobic training"
+    },
+    "choices": {
+      "A": "2 and 4",
+      "B": "1 and 3",
+      "C": "1 and 2",
+      "D": "3 and 4"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "1 and 2",
+      "indices": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "id": 23,
+    "question": "What is BBB tight-junction protein loss most directly associated with?",
+    "options": {},
+    "choices": {
+      "A": "Paracellular leakage and neurotoxin entry",
+      "B": "Enhanced CSF turnover",
+      "C": "Increased Aβ export",
+      "D": "Reduced neuroinflammation",
+      "E": "Improved glucose transport"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "Paracellular leakage and neurotoxin entry",
+      "indices": []
+    }
+  },
+  {
+    "id": 24,
+    "question": "Which two most directly elevate BACE1 activity?",
+    "options": {
+      "1": "Chronic ER stress",
+      "2": "Lipid peroxidation",
+      "3": "Cognitive reserve",
+      "4": "Cholinergic restoration"
+    },
+    "choices": {
+      "A": "1 and 3",
+      "B": "1 and 2",
+      "C": "2 and 4",
+      "D": "3 and 4"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "1 and 2",
+      "indices": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "id": 25,
+    "question": "Cholinergic neuron depletion leads to __________.",
+    "options": {},
+    "choices": {
+      "A": "Motor cortex hyperexcitability",
+      "B": "Greater cerebrovascular reactivity",
+      "C": "Enhanced IDE activity",
+      "D": "Attention and learning deficits",
+      "E": "Lower tau phosphorylation"
+    },
+    "answer": {
+      "letter": "D",
+      "text": "Attention and learning deficits",
+      "indices": []
+    }
+  },
+  {
+    "id": 26,
+    "question": "Endothelial nitric oxide (NO) bioavailability that becomes ____ leads to ____ cerebral vasodilation capacity.",
+    "options": {},
+    "choices": {
+      "A": "increased; enhanced",
+      "B": "stable; improved",
+      "C": "elevated; impaired",
+      "D": "unchanged; enhanced",
+      "E": "reduced; impaired"
+    },
+    "answer": {
+      "letter": "E",
+      "text": "reduced; impaired",
+      "indices": []
+    }
+  },
+  {
+    "id": 27,
+    "question": "Which two most immediately contribute to astrocyte reactivity?",
+    "options": {
+      "1": "IL-1β signaling",
+      "2": "TNF-α elevation",
+      "3": "Hyperketonemia",
+      "4": "Omega-3 intake"
+    },
+    "choices": {
+      "A": "2 and 4",
+      "B": "1 and 3",
+      "C": "1 and 2",
+      "D": "3 and 4"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "1 and 2",
+      "indices": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "id": 28,
+    "question": "Ceramide accumulation in brain membranes most directly causes _________.",
+    "options": {},
+    "choices": {
+      "A": "Increased membrane fluidity",
+      "B": "Reduced oxidative stress",
+      "C": "Lower BACE1 activity",
+      "D": "Mitochondrial biogenesis",
+      "E": "Pro-apoptotic signaling and synaptic loss"
+    },
+    "answer": {
+      "letter": "E",
+      "text": "Pro-apoptotic signaling and synaptic loss",
+      "indices": []
+    }
+  },
+  {
+    "id": 29,
+    "question": "RAGE upregulation at the BBB primarily results in ____________.",
+    "options": {},
+    "choices": {
+      "A": "Greater Aβ influx from blood to brain",
+      "B": "Enhanced Aβ efflux",
+      "C": "Tight-junction restoration",
+      "D": "Reduced neuroinflammation",
+      "E": "Increased glymphatic flow"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "Greater Aβ influx from blood to brain",
+      "indices": []
+    }
+  },
+  {
+    "id": 30,
+    "question": "What pair most directly reduces Aβ vascular clearance?",
+    "options": {
+      "1": "RAGE overexpression at BBB",
+      "2": "LRP1 downregulation",
+      "3": "Increased CSF turnover",
+      "4": "Sleep consolidation"
+    },
+    "choices": {
+      "A": "3 and 4",
+      "B": "1 and 3",
+      "C": "2 and 4",
+      "D": "1 and 2"
+    },
+    "answer": {
+      "letter": "D",
+      "text": "1 and 2",
+      "indices": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "id": 31,
+    "question": "What does prediabetes directly increase risk for?",
+    "options": {},
+    "choices": {
+      "A": "Central insulin signaling defects",
+      "B": "APOE genotype change",
+      "C": "Lower peripheral glucose",
+      "D": "Reduced AGEs",
+      "E": "Higher cognitive reserve"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "Central insulin signaling defects",
+      "indices": []
+    }
+  },
+  {
+    "id": 32,
+    "question": "AGEs interacting with RAGE trigger signaling that ____ NF-κB, thereby ____ inflammatory gene expression.",
+    "options": {},
+    "choices": {
+      "A": "suppresses; reducing",
+      "B": "stabilizes; stabilizing",
+      "C": "activates; increasing",
+      "D": "dephosphorylates; inhibiting",
+      "E": "blocks; eliminating"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "activates; increasing",
+      "indices": []
+    }
+  },
+  {
+    "id": 33,
+    "question": "Which two are immediate drivers of executive function decline via fronto-subcortical circuitry?",
+    "options": {
+      "1": "White-matter hyperintensities",
+      "2": "Vascular hypoperfusion",
+      "3": "Polyunsaturated fatty acids",
+      "4": "Visual enrichment"
+    },
+    "choices": {
+      "A": "1 and 2",
+      "B": "1 and 3",
+      "C": "2 and 4",
+      "D": "3 and 4"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "1 and 2",
+      "indices": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "id": 34,
+    "question": "Which of the following does autophagy impairment primarily impact?",
+    "options": {},
+    "choices": {
+      "A": "LRP1 transcription",
+      "B": "Myelin formation",
+      "C": "Synaptic vesicle release probability",
+      "D": "Clearance of misfolded proteins",
+      "E": "Glucose transporter expression"
+    },
+    "answer": {
+      "letter": "D",
+      "text": "Clearance of misfolded proteins",
+      "indices": []
+    }
+  },
+  {
+    "id": 35,
+    "question": "What is gut microbiome dysbiosis most directly tied to?",
+    "options": {},
+    "choices": {
+      "A": "Systemic inflammation that primes microglia",
+      "B": "Enhanced SCFA production",
+      "C": "Tight-junction strengthening",
+      "D": "Lower peripheral cytokines",
+      "E": "Decreased BBB permeability"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "Systemic inflammation that primes microglia",
+      "indices": []
+    }
+  },
+  {
+    "id": 36,
+    "question": "Which pair best accounts for reduced synaptic plasticity?",
+    "options": {
+      "1": "Cognitive training",
+      "2": "Dendritic spine loss",
+      "3": "Vitamin D sufficiency",
+      "4": "NMDA receptor hypofunction"
+    },
+    "choices": {
+      "A": "1 and 2",
+      "B": "1 and 3",
+      "C": "2 and 4",
+      "D": "3 and 4"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "1 and 2",
+      "indices": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "id": 37,
+    "question": "What does dyslipidemia contribute most directly to?",
+    "options": {},
+    "choices": {
+      "A": "Higher eNOS activity",
+      "B": "Lower BACE1 expression",
+      "C": "Reduced arterial stiffness",
+      "D": "Improved insulin transport into brain",
+      "E": "Atherosclerotic change and hypoperfusion"
+    },
+    "answer": {
+      "letter": "E",
+      "text": "Atherosclerotic change and hypoperfusion",
+      "indices": []
+    }
+  },
+  {
+    "id": 38,
+    "question": "LRP1 at the BBB primarily mediates Aβ ____, and its downregulation ____ brain Aβ levels.",
+    "options": {},
+    "choices": {
+      "A": "efflux; raises",
+      "B": "sequestration; stabilizes",
+      "C": "oxidation; reduces",
+      "D": "influx; lowers",
+      "E": "polymerization; increases"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "efflux; raises",
+      "indices": []
+    }
+  },
+  {
+    "id": 39,
+    "question": "Which two jointly heighten oxidative DNA damage in neurons?",
+    "options": {
+      "1": "Mitochondrial respiratory chain impairment",
+      "2": "High cardiorespiratory fitness",
+      "3": "Advanced glycation end-products (AGEs)",
+      "4": "Ketone supplementation"
+    },
+    "choices": {
+      "A": "1 and 3",
+      "B": "1 and 2",
+      "C": "2 and 4",
+      "D": "3 and 4"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "1 and 3",
+      "indices": [
+        1,
+        3
+      ]
+    }
+  },
+  {
+    "id": 40,
+    "question": "Hearing loss is primarily linked to ___________.",
+    "options": {},
+    "choices": {
+      "A": "Reduced hippocampal atrophy",
+      "B": "Immediate tau clearance",
+      "C": "Enhanced synaptic plasticity",
+      "D": "Lower cognitive reserve and increased cognitive load",
+      "E": "Better executive function"
+    },
+    "answer": {
+      "letter": "D",
+      "text": "Lower cognitive reserve and increased cognitive load",
+      "indices": []
+    }
+  },
+  {
+    "id": 41,
+    "question": "Cognitive reserve (e.g., education years) tends to ____ clinical symptom onset for equivalent pathology burden, effectively ____ decline at early stages.",
+    "options": {},
+    "choices": {
+      "A": "hasten; accelerating",
+      "B": "prevent; eliminating",
+      "C": "delay; buffering",
+      "D": "mask; worsening",
+      "E": "reverse; curing"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "delay; buffering",
+      "indices": []
+    }
+  },
+  {
+    "id": 42,
+    "question": "Which pair directly fosters cerebrovascular reactivity decline?",
+    "options": {
+      "1": "Higher HDL levels",
+      "2": "Mindfulness training",
+      "3": "Endothelial nitric oxide synthase (eNOS) dysfunction",
+      "4": "Arterial stiffness"
+    },
+    "choices": {
+      "A": "1 and 2",
+      "B": "3 and 4",
+      "C": "2 and 4",
+      "D": "1 and 3"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "3 and 4",
+      "indices": [
+        3,
+        4
+      ]
+    }
+  },
+  {
+    "id": 43,
+    "question": "What does sleep apnea most directly increase?",
+    "options": {},
+    "choices": {
+      "A": "CSF turnover",
+      "B": "Aβ efflux",
+      "C": "Intermittent hypoxia and oxidative stress",
+      "D": "Microglial quiescence",
+      "E": "GABAergic tone"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "Intermittent hypoxia and oxidative stress",
+      "indices": []
+    }
+  },
+  {
+    "id": 44,
+    "question": "Short-chain fatty acids (SCFAs) from gut fermentation generally ____ microglial homeostasis, whereas dysbiosis typically ____ pro-inflammatory tone.",
+    "options": {},
+    "choices": {
+      "A": "support; raises",
+      "B": "impair; lowers",
+      "C": "stabilize; eliminates",
+      "D": "reduce; prevents",
+      "E": "oxidize; stabilizes"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "support; raises",
+      "indices": []
+    }
+  },
+  {
+    "id": 45,
+    "question": "Which two most immediately precede hippocampal circuit disintegration (not memory per se)?",
+    "options": {
+      "1": "Visual cortex plasticity",
+      "2": "Auditory enrichment",
+      "3": "Mossy fiber sprouting",
+      "4": "CA1 interneuron loss"
+    },
+    "choices": {
+      "A": "1 and 2",
+      "B": "1 and 3",
+      "C": "2 and 4",
+      "D": "3 and 4"
+    },
+    "answer": {
+      "letter": "D",
+      "text": "3 and 4",
+      "indices": [
+        3,
+        4
+      ]
+    }
+  },
+  {
+    "id": 46,
+    "question": "Which pair best explains increased severity of cerebral amyloid angiopathy (CAA)?",
+    "options": {
+      "1": "Aβ40 overproduction",
+      "2": "Vascular smooth-muscle cell degeneration",
+      "3": "Elevated CSF turnover",
+      "4": "Microvascular dilation"
+    },
+    "choices": {
+      "A": "3 and 4",
+      "B": "1 and 3",
+      "C": "2 and 4",
+      "D": "1 and 2"
+    },
+    "answer": {
+      "letter": "D",
+      "text": "1 and 2",
+      "indices": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "id": 47,
+    "question": "What is pericyte loss at brain capillaries most directly associated with?",
+    "options": {},
+    "choices": {
+      "A": "Enhanced Aβ efflux",
+      "B": "Reduced inflammation",
+      "C": "Improved neurovascular coupling",
+      "D": "BBB leakage and microhemorrhage risk",
+      "E": "Increased insulin entry"
+    },
+    "answer": {
+      "letter": "D",
+      "text": "BBB leakage and microhemorrhage risk",
+      "indices": []
+    }
+  },
+  {
+    "id": 48,
+    "question": "Which two directly drive glutamatergic excitotoxicity?",
+    "options": {
+      "1": "Oligodendrocyte maturation",
+      "2": "Myelin repair",
+      "3": "NMDA receptor overactivation",
+      "4": "EAAT2 (astrocytic) downregulation"
+    },
+    "choices": {
+      "A": "3 and 4",
+      "B": "1 and 3",
+      "C": "2 and 4",
+      "D": "1 and 2"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "3 and 4",
+      "indices": [
+        3,
+        4
+      ]
+    }
+  },
+  {
+    "id": 49,
+    "question": "Aβ40 predominance is a characteristic of ____________.",
+    "options": {},
+    "choices": {
+      "A": "Parenchymal plaques",
+      "B": "Synaptic potentiation",
+      "C": "Tau tangle formation",
+      "D": "CSF biomarker normalization",
+      "E": "Cerebral amyloid angiopathy"
+    },
+    "answer": {
+      "letter": "E",
+      "text": "Cerebral amyloid angiopathy",
+      "indices": []
+    }
+  },
+  {
+    "id": 50,
+    "question": "Which pair most immediately causes neuronal Ca²⁺ dyshomeostasis?",
+    "options": {
+      "1": "Increased GABA tone",
+      "2": "ER stress",
+      "3": "Mitochondrial permeability transition pore opening",
+      "4": "Axonal sprouting"
+    },
+    "choices": {
+      "A": "1 and 2",
+      "B": "1 and 3",
+      "C": "3 and 4",
+      "D": "2 and 3"
+    },
+    "answer": {
+      "letter": "D",
+      "text": "2 and 3",
+      "indices": [
+        2,
+        3
+      ]
+    }
+  },
+  {
+    "id": 51,
+    "question": "What does EAAT2 (GLT-1) downregulation primarily cause?",
+    "options": {},
+    "choices": {
+      "A": "Accumulation of glutamate and excitotoxicity",
+      "B": "Reduced extracellular glutamate",
+      "C": "Increased GABA release",
+      "D": "Lower NMDA activation",
+      "E": "Immediate remyelination"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "Accumulation of glutamate and excitotoxicity",
+      "indices": []
+    }
+  },
+  {
+    "id": 52,
+    "question": "IRS-1 serine phosphorylation is typically ____ in AD and is associated with ____ neuronal insulin signaling.",
+    "options": {},
+    "choices": {
+      "A": "unchanged; enhanced",
+      "B": "decreased; improved",
+      "C": "increased; impaired",
+      "D": "increased; enhanced",
+      "E": "decreased; impaired"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "increased; impaired",
+      "indices": []
+    }
+  },
+  {
+    "id": 53,
+    "question": "Which two are direct contributors to proteasome impairment?",
+    "options": {
+      "1": "Oxidative modification of proteasomal subunits",
+      "2": "Ubiquitin pathway overload",
+      "3": "Enhanced mitophagy",
+      "4": "Increased chaperone levels"
+    },
+    "choices": {
+      "A": "2 and 4",
+      "B": "1 and 3",
+      "C": "1 and 2",
+      "D": "3 and 4"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "1 and 2",
+      "indices": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "id": 54,
+    "question": "What does opening of the mitochondrial permeability transition pore lead to?",
+    "options": {},
+    "choices": {
+      "A": "Mitochondrial depolarization and cell death pathways",
+      "B": "Higher ATP generation",
+      "C": "Reduced ROS",
+      "D": "Enhanced calcium buffering",
+      "E": "Increased synaptogenesis"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "Mitochondrial depolarization and cell death pathways",
+      "indices": []
+    }
+  },
+  {
+    "id": 55,
+    "question": "Which pair most closely precedes white-matter damage?",
+    "options": {
+      "1": "Dopamine agonists",
+      "2": "Visual enrichment",
+      "3": "Chronic cerebral hypoperfusion",
+      "4": "Small-vessel disease"
+    },
+    "choices": {
+      "A": "3 and 4",
+      "B": "1 and 3",
+      "C": "2 and 4",
+      "D": "1 and 2"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "3 and 4",
+      "indices": [
+        3,
+        4
+      ]
+    }
+  },
+  {
+    "id": 56,
+    "question": "What does proteasome dysfunction most directly result in?",
+    "options": {},
+    "choices": {
+      "A": "Lower misfolded protein load",
+      "B": "Enhanced Aβ catabolism",
+      "C": "Increased autophagic flux",
+      "D": "Accumulation of ubiquitinated proteins",
+      "E": "Reduced oxidative damage"
+    },
+    "answer": {
+      "letter": "D",
+      "text": "Accumulation of ubiquitinated proteins",
+      "indices": []
+    }
+  },
+  {
+    "id": 57,
+    "question": "mTOR hyperactivation generally ____ autophagy, leading to ____ protein aggregates.",
+    "options": {},
+    "choices": {
+      "A": "enhances; fewer",
+      "B": "enhances; more",
+      "C": "stabilizes; unchanged",
+      "D": "suppresses; fewer",
+      "E": "suppresses; more"
+    },
+    "answer": {
+      "letter": "E",
+      "text": "suppresses; more",
+      "indices": []
+    }
+  },
+  {
+    "id": 58,
+    "question": "Which two jointly reduce adult hippocampal neurogenesis?",
+    "options": {
+      "1": "Niche inflammation (microglial priming)",
+      "2": "Reduced BDNF signaling",
+      "3": "Musical training",
+      "4": "Omega-3 supplementation"
+    },
+    "choices": {
+      "A": "3 and 4",
+      "B": "1 and 3",
+      "C": "2 and 4",
+      "D": "1 and 2"
+    },
+    "answer": {
+      "letter": "D",
+      "text": "1 and 2",
+      "indices": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "id": 59,
+    "question": "What does chronic hypoperfusion mainly produce?",
+    "options": {},
+    "choices": {
+      "A": "White-matter hyperintensities and processing-speed decline",
+      "B": "Improved executive function",
+      "C": "Reduced small-vessel disease",
+      "D": "Elevated CSF Aβ clearance",
+      "E": "Hippocampal neurogenesis"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "White-matter hyperintensities and processing-speed decline",
+      "indices": []
+    }
+  },
+  {
+    "id": 60,
+    "question": "SIRT1 activation is linked to ____ tau acetylation and ____ neuroprotection.",
+    "options": {},
+    "choices": {
+      "A": "increased; reduced",
+      "B": "unchanged; unchanged",
+      "C": "reduced; increased",
+      "D": "reduced; reduced",
+      "E": "increased; increased"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "reduced; increased",
+      "indices": []
+    }
+  },
+  {
+    "id": 61,
+    "question": "Which pair most directly supports tau spread via extracellular vesicles?",
+    "options": {
+      "1": "Enhanced autophagic flux",
+      "2": "Synaptic scaling",
+      "3": "Increased neuronal exosome release",
+      "4": "Microglial uptake/clearance failure"
+    },
+    "choices": {
+      "A": "3 and 4",
+      "B": "1 and 3",
+      "C": "2 and 4",
+      "D": "1 and 2"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "3 and 4",
+      "indices": [
+        3,
+        4
+      ]
+    }
+  },
+  {
+    "id": 62,
+    "question": "Which of the following is BDNF reduction most directly linked to?",
+    "options": {},
+    "choices": {
+      "A": "Stronger LTP",
+      "B": "Enhanced neurogenesis",
+      "C": "Immediate tau clearance",
+      "D": "Weaker synaptic plasticity and memory encoding",
+      "E": "Increased cortical thickness"
+    },
+    "answer": {
+      "letter": "D",
+      "text": "Weaker synaptic plasticity and memory encoding",
+      "indices": []
+    }
+  },
+  {
+    "id": 63,
+    "question": "Which two immediately reduce insulin transport into the brain?",
+    "options": {
+      "1": "Downregulated endothelial insulin receptors",
+      "2": "BBB inflammatory signaling",
+      "3": "Elevated GLUT1 expression",
+      "4": "Aerobic fitness"
+    },
+    "choices": {
+      "A": "3 and 4",
+      "B": "1 and 3",
+      "C": "2 and 4",
+      "D": "1 and 2"
+    },
+    "answer": {
+      "letter": "D",
+      "text": "1 and 2",
+      "indices": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "id": 64,
+    "question": "Tau-bearing exosomes can ___________.",
+    "options": {},
+    "choices": {
+      "A": "Restore axonal transport",
+      "B": "Eliminate intracellular tau",
+      "C": "Suppress microglial activation",
+      "D": "Seed tau pathology in connected neurons",
+      "E": "Increase IDE activity"
+    },
+    "answer": {
+      "letter": "D",
+      "text": "Seed tau pathology in connected neurons",
+      "indices": []
+    }
+  },
+  {
+    "id": 65,
+    "question": "The typical CSF biomarker pattern in AD is ____ Aβ42 with ____ total tau.",
+    "options": {},
+    "choices": {
+      "A": "decreased; increased",
+      "B": "increased; decreased",
+      "C": "unchanged; unchanged",
+      "D": "decreased; decreased",
+      "E": "increased; increased"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "decreased; increased",
+      "indices": []
+    }
+  },
+  {
+    "id": 66,
+    "question": "Which pair best precedes default mode network (DMN) connectivity loss?",
+    "options": {
+      "1": "Acute ketone therapy",
+      "2": "Posterior cingulate hypometabolism",
+      "3": "Cortical synaptic loss",
+      "4": "Language training"
+    },
+    "choices": {
+      "A": "2 and 3",
+      "B": "1 and 3",
+      "C": "1 and 2",
+      "D": "3 and 4"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "2 and 3",
+      "indices": [
+        2,
+        3
+      ]
+    }
+  },
+  {
+    "id": 67,
+    "question": "What does endothelial insulin receptor downregulation primarily do?",
+    "options": {},
+    "choices": {
+      "A": "Raises CSF Aβ42",
+      "B": "Increases IDE activity in neurons",
+      "C": "Enhances synaptic vesicle cycling",
+      "D": "Improves glucose uptake in astrocytes",
+      "E": "Reduces insulin transport across the BBB"
+    },
+    "answer": {
+      "letter": "E",
+      "text": "Reduces insulin transport across the BBB",
+      "indices": []
+    }
+  },
+  {
+    "id": 68,
+    "question": "Locus coeruleus degeneration leads to reduced ____ signaling, worsening ____ modulation.",
+    "options": {},
+    "choices": {
+      "A": "noradrenergic; arousal",
+      "B": "serotonergic; mood",
+      "C": "dopaminergic; motor",
+      "D": "cholinergic; language",
+      "E": "GABAergic; vision"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "noradrenergic; arousal",
+      "indices": []
+    }
+  },
+  {
+    "id": 69,
+    "question": "Early FDG-PET change in typical AD often shows ___________.",
+    "options": {},
+    "choices": {
+      "A": "Striatal hypermetabolism",
+      "B": "Primary motor cortex hypermetabolism",
+      "C": "Posterior cingulate/precuneus hypometabolism",
+      "D": "Cerebellar hypometabolism",
+      "E": "Medulla hypermetabolism"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "Posterior cingulate/precuneus hypometabolism",
+      "indices": []
+    }
+  },
+  {
+    "id": 70,
+    "question": "Which two most immediately drive NLRP3 inflammasome activation in microglia?",
+    "options": {
+      "1": "Aβ oligomer uptake",
+      "2": "Lysosomal rupture",
+      "3": "Aerobic conditioning",
+      "4": "Increased SCFAs"
+    },
+    "choices": {
+      "A": "1 and 3",
+      "B": "1 and 4",
+      "C": "1 and 2",
+      "D": "3 and 4"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "1 and 2",
+      "indices": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "id": 71,
+    "question": "What does AQP4 depolarization on astrocyte endfeet primarily cause?",
+    "options": {},
+    "choices": {
+      "A": "Reduced perivascular CSF–ISF exchange",
+      "B": "Improved glymphatic inflow",
+      "C": "Enhanced Aβ efflux",
+      "D": "Stronger tight junctions",
+      "E": "Increased IDE expression"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "Reduced perivascular CSF–ISF exchange",
+      "indices": []
+    }
+  },
+  {
+    "id": 72,
+    "question": "Which pair best explains reduced glymphatic clearance at night?",
+    "options": {
+      "1": "NMDA hypofunction",
+      "2": "Language training",
+      "3": "AQP4 depolarization on astrocytic endfeet",
+      "4": "Arterial pulsatility loss"
+    },
+    "choices": {
+      "A": "1 and 3",
+      "B": "1 and 4",
+      "C": "3 and 4",
+      "D": "1 and 2"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "3 and 4",
+      "indices": [
+        3,
+        4
+      ]
+    }
+  },
+  {
+    "id": 73,
+    "question": "What is TREM2 hypofunction in microglia most directly associated with?",
+    "options": {},
+    "choices": {
+      "A": "Increased synaptic pruning accuracy",
+      "B": "Reduced debris/Aβ phagocytosis",
+      "C": "Enhanced IDE competition",
+      "D": "Lower cytokine signaling",
+      "E": "Restored mitochondrial potential"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "Reduced debris/Aβ phagocytosis",
+      "indices": []
+    }
+  },
+  {
+    "id": 74,
+    "question": "Heparan sulfate proteoglycans (HSPGs) on cell surfaces can ____ tau uptake, thereby ____ trans-synaptic spread.",
+    "options": {},
+    "choices": {
+      "A": "inhibit; reducing",
+      "B": "facilitate; promoting",
+      "C": "ignore; stabilizing",
+      "D": "oxidize; eliminating",
+      "E": "acetylate; curing"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "facilitate; promoting",
+      "indices": []
+    }
+  },
+  {
+    "id": 75,
+    "question": "Which two most directly increase the Aβ42/Aβ40 ratio?",
+    "options": {
+      "1": "PSEN1 mutation altering γ-secretase cleavage",
+      "2": "Cholesterol enrichment of membranes",
+      "3": "Cognitive reserve",
+      "4": "Olfactory training"
+    },
+    "choices": {
+      "A": "3 and 4",
+      "B": "1 and 3",
+      "C": "2 and 4",
+      "D": "1 and 2"
+    },
+    "answer": {
+      "letter": "D",
+      "text": "1 and 2",
+      "indices": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "id": 76,
+    "question": "C1q elevation at synapses most directly results in ____________.",
+    "options": {},
+    "choices": {
+      "A": "Myelin repair",
+      "B": "Complement tagging and microglial elimination of synapses",
+      "C": "Tau dephosphorylation",
+      "D": "Increased LRP1 efflux",
+      "E": "eNOS activation"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "Complement tagging and microglial elimination of synapses",
+      "indices": []
+    }
+  },
+  {
+    "id": 77,
+    "question": "Which pair is most proximal to excessive complement-mediated synapse tagging?",
+    "options": {
+      "1": "Higher HDL",
+      "2": "C1q upregulation",
+      "3": "Microglial CR3 engagement",
+      "4": "Vision enrichment"
+    },
+    "choices": {
+      "A": "2 and 3",
+      "B": "1 and 3",
+      "C": "1 and 2",
+      "D": "3 and 4"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "2 and 3",
+      "indices": [
+        2,
+        3
+      ]
+    }
+  },
+  {
+    "id": 78,
+    "question": "Neprilysin is a key Aβ-degrading enzyme; when its activity is ____, brain Aβ burden tends to ____.",
+    "options": {},
+    "choices": {
+      "A": "increased; increase",
+      "B": "reduced; increase",
+      "C": "unchanged; decrease",
+      "D": "elevated; stabilize",
+      "E": "reduced; decrease"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "reduced; increase",
+      "indices": []
+    }
+  },
+  {
+    "id": 79,
+    "question": "Which two most immediately lead to tau mis-sorting and axonal transport failure?",
+    "options": {
+      "1": "Microtubule destabilization",
+      "2": "Kinesin/dynein trafficking impairment",
+      "3": "Increased myelination",
+      "4": "GABAergic tone increase"
+    },
+    "choices": {
+      "A": "2 and 4",
+      "B": "1 and 3",
+      "C": "1 and 2",
+      "D": "3 and 4"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "1 and 2",
+      "indices": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "id": 80,
+    "question": "What does AQP4 polarity support?",
+    "options": {},
+    "choices": {
+      "A": "Tau acetylation",
+      "B": "Efficient glymphatic clearance along vessels",
+      "C": "RAGE-mediated influx",
+      "D": "mPTP opening",
+      "E": "EAAT2 downregulation"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "Efficient glymphatic clearance along vessels",
+      "indices": []
+    }
+  },
+  {
+    "id": 81,
+    "question": "Which pair directly promotes ferroptosis-prone lipid peroxidation in neurons?",
+    "options": {
+      "1": "Vitamin E sufficiency",
+      "2": "Ketone therapy",
+      "3": "Iron accumulation",
+      "4": "GPX4 insufficiency"
+    },
+    "choices": {
+      "A": "3 and 4",
+      "B": "1 and 3",
+      "C": "2 and 4",
+      "D": "1 and 2"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "3 and 4",
+      "indices": [
+        3,
+        4
+      ]
+    }
+  },
+  {
+    "id": 82,
+    "question": "What does ABCA1-driven APOE lipidation improve?",
+    "options": {},
+    "choices": {
+      "A": "Aβ clearance and lipid transport",
+      "B": "γ-secretase cleavage",
+      "C": "Ferroptosis susceptibility",
+      "D": "CR3 activation",
+      "E": "IRS-2 inhibition"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "Aβ clearance and lipid transport",
+      "indices": []
+    }
+  },
+  {
+    "id": 83,
+    "question": "Homocysteine elevation typically ____ endothelial integrity and ____ BBB permeability.",
+    "options": {},
+    "choices": {
+      "A": "strengthens; reduces",
+      "B": "weakens; increases",
+      "C": "stabilizes; stabilizes",
+      "D": "restores; eliminates",
+      "E": "masks; cures"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "weakens; increases",
+      "indices": []
+    }
+  },
+  {
+    "id": 84,
+    "question": "Which two most immediately reduce Aβ phagocytosis by microglia?",
+    "options": {
+      "1": "TREM2 loss-of-function variant",
+      "2": "APOE fragment interference with receptors",
+      "3": "Aerobic fitness",
+      "4": "Mediterranean diet adherence"
+    },
+    "choices": {
+      "A": "3 and 4",
+      "B": "1 and 3",
+      "C": "2 and 4",
+      "D": "1 and 2"
+    },
+    "answer": {
+      "letter": "D",
+      "text": "1 and 2",
+      "indices": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "id": 85,
+    "question": "What does NOX2 activation in microglia primarily increase?",
+    "options": {},
+    "choices": {
+      "A": "Mitochondrial biogenesis",
+      "B": "IDE-mediated Aβ catabolism",
+      "C": "Reactive oxygen species and oxidative stress",
+      "D": "Tau deacetylation",
+      "E": "BBB tightness"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "Reactive oxygen species and oxidative stress",
+      "indices": []
+    }
+  },
+  {
+    "id": 86,
+    "question": "Which pair best accounts for homocysteine-driven cerebrovascular injury?",
+    "options": {
+      "1": "Cognitive training",
+      "2": "Endothelial nitric-oxide reduction",
+      "3": "Basement-membrane disruption",
+      "4": "Music therapy"
+    },
+    "choices": {
+      "A": "2 and 3",
+      "B": "1 and 3",
+      "C": "1 and 2",
+      "D": "3 and 4"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "2 and 3",
+      "indices": [
+        2,
+        3
+      ]
+    }
+  },
+  {
+    "id": 87,
+    "question": "What is Aβ–Cu/Zn binding most directly tied to?",
+    "options": {},
+    "choices": {
+      "A": "Decreased aggregation",
+      "B": "ROS generation and aggregation promotion",
+      "C": "Enhanced efflux via LRP1",
+      "D": "Lower lipid peroxidation",
+      "E": "Reduced prion-like seeding"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "ROS generation and aggregation promotion",
+      "indices": []
+    }
+  },
+  {
+    "id": 88,
+    "question": "ABCA7 variants are associated with ____ phagocytic clearance and consequently ____ amyloid accumulation.",
+    "options": {},
+    "choices": {
+      "A": "enhanced; reduced",
+      "B": "impaired; increased",
+      "C": "impaired; reduced",
+      "D": "enhanced; increased",
+      "E": "unchanged; unchanged"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "impaired; increased",
+      "indices": []
+    }
+  },
+  {
+    "id": 89,
+    "question": "Which two directly precede impaired neuronal autophagosome–lysosome fusion?",
+    "options": {
+      "1": "Lysosomal acidification failure",
+      "2": "SNARE machinery disruption",
+      "3": "Increased chaperones",
+      "4": "Visual enrichment"
+    },
+    "choices": {
+      "A": "2 and 4",
+      "B": "1 and 3",
+      "C": "1 and 2",
+      "D": "3 and 4"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "1 and 2",
+      "indices": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "id": 90,
+    "question": "What does Olfactory bulb degeneration early in disease closely predict?",
+    "options": {},
+    "choices": {
+      "A": "Motor cortex sparing",
+      "B": "Immediate hippocampal hypertrophy",
+      "C": "Cerebellar atrophy",
+      "D": "Increased executive function",
+      "E": "Anosmia and early circuit spread risk"
+    },
+    "answer": {
+      "letter": "E",
+      "text": "Anosmia and early circuit spread risk",
+      "indices": []
+    }
+  },
+  {
+    "id": 91,
+    "question": "Which pair best explains early entorhinal cortex vulnerability?",
+    "options": {
+      "1": "Auditory training",
+      "2": "High tau seed burden in layer II",
+      "3": "Long-range hub connectivity stress",
+      "4": "Higher cardiorespiratory fitness"
+    },
+    "choices": {
+      "A": "2 and 3",
+      "B": "1 and 3",
+      "C": "1 and 2",
+      "D": "3 and 4"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "2 and 3",
+      "indices": [
+        2,
+        3
+      ]
+    }
+  },
+  {
+    "id": 92,
+    "question": "What does PINK1/Parkin pathway failure primarily affect?",
+    "options": {},
+    "choices": {
+      "A": "Proteasome core assembly",
+      "B": "Mitophagy and removal of damaged mitochondria",
+      "C": "NMDA receptor density",
+      "D": "CSF turnover",
+      "E": "GLUT1 trafficking"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "Mitophagy and removal of damaged mitochondria",
+      "indices": []
+    }
+  },
+  {
+    "id": 93,
+    "question": "GPX4 activity helps ____ lipid peroxides; when GPX4 is ____, neurons become ____ to ferroptosis.",
+    "options": {},
+    "choices": {
+      "A": "generate; high; resistant",
+      "B": "neutralize; low; vulnerable",
+      "C": "neutralize; high; resistant",
+      "D": "export; low; immune",
+      "E": "import; high; vulnerable"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "neutralize; low; vulnerable",
+      "indices": []
+    }
+  },
+  {
+    "id": 94,
+    "question": "Which two most immediately drive astrocytic lactate shortfall at synapses?",
+    "options": {
+      "1": "Reduced MCT1/4 expression in astrocytes",
+      "2": "Neuronal MCT2 blockade",
+      "3": "Increased myelination",
+      "4": "Aerobic interval training"
+    },
+    "choices": {
+      "A": "1 and 3",
+      "B": "1 and 4",
+      "C": "1 and 2",
+      "D": "3 and 4"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "1 and 2",
+      "indices": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "id": 95,
+    "question": "What does SIRT3 activation in mitochondria primarily do?",
+    "options": {},
+    "choices": {
+      "A": "Increases tau acetylation",
+      "B": "Blocks autophagy initiation",
+      "C": "Deacetylates metabolic enzymes and reduces ROS",
+      "D": "Lowers ATP synthase activity",
+      "E": "Raises cytosolic Ca²⁺ leak"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "Deacetylates metabolic enzymes and reduces ROS",
+      "indices": []
+    }
+  },
+  {
+    "id": 96,
+    "question": "CREB phosphorylation generally ____ gene programs for synaptic plasticity, and persistent suppression ____ memory consolidation.",
+    "options": {},
+    "choices": {
+      "A": "represses; enhances",
+      "B": "activates; impairs",
+      "C": "activates; cures",
+      "D": "blocks; prevents",
+      "E": "stabilizes; accelerates"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "activates; impairs",
+      "indices": []
+    }
+  },
+  {
+    "id": 97,
+    "question": "Which pair best explains failure of synaptic vesicle recycling?",
+    "options": {
+      "1": "Enhanced BDNF signaling",
+      "2": "Ketogenic diet",
+      "3": "Dynamin dysfunction",
+      "4": "Clathrin coat assembly defects"
+    },
+    "choices": {
+      "A": "1 and 2",
+      "B": "1 and 3",
+      "C": "3 and 4",
+      "D": "2 and 4"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "3 and 4",
+      "indices": [
+        3,
+        4
+      ]
+    }
+  },
+  {
+    "id": 98,
+    "question": "What is miR-34a upregulation  directly associated with?",
+    "options": {},
+    "choices": {
+      "A": "Enhanced synaptic protein translation",
+      "B": "Suppressed neuronal survival pathways",
+      "C": "Increased IDE transcription",
+      "D": "Decreased apoptotic signaling",
+      "E": "Improved axonal transport"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "Suppressed neuronal survival pathways",
+      "indices": []
+    }
+  },
+  {
+    "id": 99,
+    "question": "Histone acetylation at promoters tends to ____ transcription, while HDAC overactivity typically ____ plasticity-related genes.",
+    "options": {},
+    "choices": {
+      "A": "facilitate; represses",
+      "B": "ignore; stabilizes",
+      "C": "oxidize; eliminates",
+      "D": "suppress; enhances",
+      "E": "export; increases"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "facilitate; represses",
+      "indices": []
+    }
+  },
+  {
+    "id": 100,
+    "question": "What does PDH (pyruvate dehydrogenase) inhibition in neurons directly lead to?",
+    "options": {},
+    "choices": {
+      "A": "Increased TCA throughput",
+      "B": "Elevated ketone oxidation",
+      "C": "Enhanced glycolytic ATP yield",
+      "D": "Reduced acetyl-CoA and energy failure",
+      "E": "Immediate synaptic potentiation"
+    },
+    "answer": {
+      "letter": "D",
+      "text": "Reduced acetyl-CoA and energy failure",
+      "indices": []
+    }
+  }
+]

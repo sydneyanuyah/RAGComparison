@@ -8,23 +8,53 @@ Artifacts for the paper **“Domain-Specific Knowledge Graphs in RAG-Enhanced He
 
 ## Repository contents
 
-The `artifacts/` directory contains the available project files:
+### Project artifacts
 
-- Python scripts for abstract tokenization, coreference processing, sentence splitting and tagging, sentence simplification, causal filtering, relation extraction, and local RAG evaluation.
-- Selected, coreference-processed, sentence-level, labeled, and causal-filtered CSV data.
-- Three knowledge-graph CSV files in `artifacts/questions/`:
-  - `G1.csv` — 6,439 rows
-  - `G2.csv` — 9,385 rows
-  - `G3_from_triples_AND_columns.csv` — 8,238 rows
-- Two multiple-choice probe files in `artifacts/questions/`:
-  - `questions_final_schema_balanced.json` — 100 questions
-  - `questions_final_schema_balanced2.json` — 110 questions
-- Local evaluation outputs under these directories:
-  - `Mixtral_T0`
-  - `llama3T0`, `llama3T0.2`, and `llama3T0.5`
-  - `llama3_2_T0`, `llama3_2_T0.2`, and `llama3_2_T0.5`
+The `artifacts/` directory contains the available project files collected from the project server and local project folders:
 
-Each available evaluation directory contains prediction and metric files together with TF-IDF vectorizers and sparse matrices.
+- Python scripts for data selection, abstract tokenization, coreference processing, sentence splitting and tagging, sentence simplification, causal filtering, relation extraction, and local RAG evaluation.
+- Raw, selected, tokenized, coreference-processed, sentence-level, labeled, and causal-filtered CSV data.
+- Three knowledge-graph CSV files:
+  - `G1.csv` - 6,439 rows
+  - `G2.csv` - 9,385 rows
+  - `G3_from_triples_AND_columns.csv` - 8,238 rows
+- Two multiple-choice probe files:
+  - `questions_final_schema_balanced.json` - 100 questions
+  - `questions_final_schema_balanced2.json` - 110 questions
+
+`artifacts/local_ieee_snapshot/` preserves the available local project snapshot. It includes:
+
+- `RawData.csv` - 27,973 PubMed records
+- `selected_AD.csv`, `selected_T2DM.csv`, and `selected_ALZ_T2DM.csv` - 1,000 selected records each
+- `ieee_datafilter.py` and the available processing scripts
+- Tokenized datasets, labeled sentence data, causal-filtered data, relation-extraction outputs, and `re_task.zip`
+
+`artifacts/local_core/` preserves the locally stored graph files, probe files, and RAG evaluation script.
+
+### Evaluation outputs
+
+`artifacts/questions/` contains the evaluation outputs available on the project server.
+
+`artifacts/local_results/` contains 22 complete local evaluation bundles under the directory names in which they were found:
+
+- `Qwen2.5T0`, `Qwen2.5T0.2`, and `Qwen2.5T0.5`
+- `Qwen2.5_2_T0`, `Qwen2.5_2_T0.2`, and `Qwen2.5_2_T0.5`
+- `Mixtral2.5T0`, `Mixtral2.5T0.2`, and `Mixtral2.5T0.5`
+- `Mixtral2.5_2_T0`, `Mixtral2.5_2_T0.2`, and `Mixtral2.5_2_T0.5`
+- `Mistral2.5T0.2` and `Mistral2.5T0.5`
+- `Mistral2.5_2_T0`, `Mistral2.5_2_T0.2`, and `Mistral2.5_2_T0.5`
+- `llama3T0`, `llama3T0.2`, and `llama3T0.5`
+- `llama3_2_T0` and `llama3_2_T0.2`
+
+Each complete evaluation bundle contains predictions, CSV and JSON metrics, five TF-IDF vectorizers, and five sparse matrices. The available server outputs also include the `llama3_2_T0.5` bundle.
+
+### Paper and source materials
+
+- `paper/` contains the published IEEE paper and three available PDF variants.
+- `manuscript/submission_source.zip` is the available manuscript source archive.
+- `manuscript/source_package/` contains the extracted TeX sections, bibliography, and PDF figures from that archive.
+- `manuscript/later_main.tex` is the available later main TeX file.
+- `presentations/` contains two available presentations for this work.
 
 ## Citation
 
