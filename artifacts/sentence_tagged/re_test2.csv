@@ -1,0 +1,174 @@
+PMID,Title,csv_name,SentenceIndex,SimpleIndex,ChosenSentence,Relationships,llm_raw_output,llm_error
+40766125,"Temporal sequence of amyloid and tau PET positivity: APOE -ε4 and sex effects, and implications for Alzheimer's disease progression.",AD,0,1,IMPORTANCE: Alzheimer's disease Alzheimer's disease progression varies widely among individuals.,"[{""Entity 1"": ""Alzheimer's disease"", ""Relationship"": ""varies"", ""Entity 2"": ""progression""}]","
+
+[
+  {
+    ""Entity 1"": ""Alzheimer's disease"",
+    ""Relationship"": ""varies"",
+    ""Entity 2"": ""progression""
+  }
+]",
+40766125,"Temporal sequence of amyloid and tau PET positivity: APOE -ε4 and sex effects, and implications for Alzheimer's disease progression.",AD,1,1,Identifying factors influencing timing of pathology and clinical progression is crucial for optimizing early intervention trials.,"[{""Entity 1"": ""Identifying factors influencing timing"", ""Relationship"": ""is crucial for optimizing"", ""Entity 2"": ""pathology and clinical progression""}]","
+
+[
+  {
+    ""Entity 1"": ""Identifying factors influencing timing"",
+    ""Entity 2"": ""pathology and clinical progression"",
+    ""Relationship"": ""is crucial for optimizing""
+  }
+]",
+40766125,"Temporal sequence of amyloid and tau PET positivity: APOE -ε4 and sex effects, and implications for Alzheimer's disease progression.",AD,3,1,DESIGN: Longitudinal observational study.,[],"
+
+Since the sentence ""DESIGN: Longitudinal observational study"" doesn't contain any relationship between two entities, the correct output should be an empty list.",No JSON found
+40766125,"Temporal sequence of amyloid and tau PET positivity: APOE -ε4 and sex effects, and implications for Alzheimer's disease progression.",AD,4,1,SETTING: Multicenter study using data from the Alzheimer's disease Disease Neuroimaging Alzheimer's Disease Neuroimaging Initiative (ADNI).,"[{""Entity 1"": ""Alzheimer's Disease Neuroimaging Initiative"", ""Relationship"": ""collected"", ""Entity 2"": ""MRI scans""}, {""Entity 1"": ""MRI scans"", ""Relationship"": ""from"", ""Entity 2"": ""patients with Alzheimer's disease""}]","
+
+Input: ""The Alzheimer's Disease Neuroimaging Initiative collected MRI scans from patients with Alzheimer's disease.""
+
+Output:
+[
+  {
+    ""Entity 1"": ""Alzheimer's Disease Neuroimaging Initiative"",
+    ""Entity 2"": ""MRI scans"",
+    ""Relationship"": ""collected""
+  },
+  {
+    ""Entity 1"": ""MRI scans"",
+    ""Entity 2"": ""patients with Alzheimer's disease"",
+    ""Relationship"": ""from""
+  }
+]",
+40766125,"Temporal sequence of amyloid and tau PET positivity: APOE -ε4 and sex effects, and implications for Alzheimer's disease progression.",AD,5,1,PARTICIPANTS: Alzheimer's Disease Neuroimaging Initiative participants with at least one positive amyloid PET scan (n=792) or at least one positive tau PET scan (n=212) were included.,"[{""Entity 1"": ""Alzheimer's Disease Neuroimaging Initiative participants"", ""Relationship"": ""with"", ""Entity 2"": ""at least one positive amyloid PET scan or at least one positive tau PET scan""}, {""Entity 1"": ""participants with at least one positive amyloid PET scan or at least one positive tau PET scan"", ""Relationship"": ""were included"", ""Entity 2"": ""n=792 or n=212""}]","
+
+[
+  {
+    ""Entity 1"": ""Alzheimer's Disease Neuroimaging Initiative participants"",
+    ""Relationship"": ""with"",
+    ""Entity 2"": ""at least one positive amyloid PET scan or at least one positive tau PET scan""
+  },
+  {
+    ""Entity 1"": ""participants with at least one positive amyloid PET scan or at least one positive tau PET scan"",
+    ""Relationship"": ""were included"",
+    ""Entity 2"": ""n=792 or n=212""
+  }
+]",
+40766125,"Temporal sequence of amyloid and tau PET positivity: APOE -ε4 and sex effects, and implications for Alzheimer's disease progression.",AD,7,1,"EXPOSURES: (18) F-florbetapir or (18) F-florbetaben amyloid PET, (18) F-flortaucipir tau PET, CDR global, CDR-SB.","[{""Entity 1"": ""EXPOSURES"", ""Relationship"": ""include"", ""Entity 2"": ""(18) F-florbetapir or (18) F-florbetaben amyloid PET""}, {""Entity 1"": ""EXPOSURES"", ""Relationship"": ""include"", ""Entity 2"": ""(18) F-flortaucipir tau PET""}, {""Entity 1"": ""EXPOSURES"", ""Relationship"": ""include"", ""Entity 2"": ""CDR global""}, {""Entity 1"": ""EXPOSURES"", ""Relationship"": ""include"", ""Entity 2"": ""CDR-SB""}]","
+
+[
+  {
+    ""Entity 1"": ""EXPOSURES"",
+    ""Relationship"": ""include"",
+    ""Entity 2"": ""(18) F-florbetapir or (18) F-florbetaben amyloid PET""
+  },
+  {
+    ""Entity 1"": ""EXPOSURES"",
+    ""Relationship"": ""include"",
+    ""Entity 2"": ""(18) F-flortaucipir tau PET""
+  },
+  {
+    ""Entity 1"": ""EXPOSURES"",
+    ""Relationship"": ""include"",
+    ""Entity 2"": ""CDR global""
+  },
+  {
+    ""Entity 1"": ""EXPOSURES"",
+    ""Relationship"": ""include"",
+    ""Entity 2"": ""CDR-SB""
+  }
+]",
+40766125,"Temporal sequence of amyloid and tau PET positivity: APOE -ε4 and sex effects, and implications for Alzheimer's disease progression.",AD,9,1,Accelerated Failure Time (AFT) models were used to predict time to symptom onset based on biomarker positivity age and the amyloid-tau interval.,"[{""Entity 1"": ""AFT models"", ""Relationship"": ""were used to predict"", ""Entity 2"": ""time to symptom onset""}, {""Entity 1"": ""time to symptom onset"", ""Relationship"": ""based on"", ""Entity 2"": ""biomarker positivity age and the amyloid-tau interval""}]","
+
+[
+  {
+    ""Entity 1"": ""AFT models"",
+    ""Entity 2"": ""time to symptom onset"",
+    ""Relationship"": ""were used to predict""
+  },
+  {
+    ""Entity 1"": ""time to symptom onset"",
+    ""Entity 2"": ""biomarker positivity age and the amyloid-tau interval"",
+    ""Relationship"": ""based on""
+  }
+]",
+40766125,"Temporal sequence of amyloid and tau PET positivity: APOE -ε4 and sex effects, and implications for Alzheimer's disease progression.",AD,11,1,Additional models included interaction terms APOE-ε4 status and sex sex or APOE -ε4 status.,"[{""Entity 1"": ""additional models"", ""Relationship"": ""included"", ""Entity 2"": ""interaction terms APOE-ε4 status and sex or APOE -ε4 status""}, {""Entity 1"": ""interaction terms APOE-ε4 status and sex or APOE -ε4 status"", ""Relationship"": ""and"", ""Entity 2"": ""APOE-ε4 status""}]","
+
+[
+  {
+    ""Entity 1"": ""additional models"",
+    ""Entity 2"": ""interaction terms APOE-ε4 status and sex or APOE -ε4 status"",
+    ""Relationship"": ""included""
+  },
+  {
+    ""Entity 1"": ""interaction terms APOE-ε4 status and sex or APOE -ε4 status"",
+    ""Entity 2"": ""APOE-ε4 status"",
+    ""Relationship"": ""and""
+  }
+]",
+40766125,"Temporal sequence of amyloid and tau PET positivity: APOE -ε4 and sex effects, and implications for Alzheimer's disease progression.",AD,12,1,"RESULTS: APOE- ε,4 carriers and women had earlier amyloid and tau PET positivity ages.","[{""Entity 1"": ""APOE- ε,4 carriers"", ""Relationship"": ""had"", ""Entity 2"": ""earlier amyloid PET positivity ages""}, {""Entity 1"": ""women"", ""Relationship"": ""had"", ""Entity 2"": ""earlier tau PET positivity ages""}]","
+
+[
+  {
+    ""Entity 1"": ""APOE- ε,4 carriers"",
+    ""Relationship"": ""had"",
+    ""Entity 2"": ""earlier amyloid PET positivity ages""
+  },
+  {
+    ""Entity 1"": ""women"",
+    ""Relationship"": ""had"",
+    ""Entity 2"": ""earlier tau PET positivity ages""
+  }
+]",
+40766125,"Temporal sequence of amyloid and tau PET positivity: APOE -ε4 and sex effects, and implications for Alzheimer's disease progression.",AD,14,1,An older age at amyloid or tau PET positivity and a shorter amyloid-tau interval predicted earlier symptom onset.,"[{""Entity 1"": ""older age at amyloid or tau PET positivity"", ""Relationship"": ""predicted"", ""Entity 2"": ""earlier symptom onset""}, {""Entity 1"": ""shorter amyloid-tau interval"", ""Relationship"": ""predicted"", ""Entity 2"": ""earlier symptom onset""}]","
+
+[
+  {
+    ""Entity 1"": ""older age at amyloid or tau PET positivity"",
+    ""Entity 2"": ""earlier symptom onset"",
+    ""Relationship"": ""predicted""
+  },
+  {
+    ""Entity 1"": ""shorter amyloid-tau interval"",
+    ""Entity 2"": ""earlier symptom onset"",
+    ""Relationship"": ""predicted""
+  }
+]",
+40766125,"Temporal sequence of amyloid and tau PET positivity: APOE -ε4 and sex effects, and implications for Alzheimer's disease progression.",AD,16,1,The amyloid-tau interval did not influence time until symptom onset after tau PET positivity or those with older age at amyloid or tau PET positivity of cognitive decline.,"[{""Entity 1"": ""amyloid-tau interval"", ""Relationship"": ""did not influence"", ""Entity 2"": ""time until symptom onset after tau PET positivity or those with older age at amyloid or tau PET positivity of cognitive decline""}]","
+
+[
+  {
+    ""Entity 1"": ""amyloid-tau interval"",
+    ""Entity 2"": ""time until symptom onset after tau PET positivity or those with older age at amyloid or tau PET positivity of cognitive decline"",
+    ""Relationship"": ""did not influence""
+  }
+]",
+39817469,APOE4 impact on soluble and insoluble tau pathology is mostly influenced by amyloid-β.,AD,0,1,The APOE4 allele is the strongest genetic risk factor for sporadic Alzheimer's disease (AD).,"[{""Entity 1"": ""APOE4 allele"", ""Relationship"": ""is"", ""Entity 2"": ""strongest genetic risk factor for sporadic Alzheimer's disease""}]","
+
+[
+  {
+    ""Entity 1"": ""APOE4 allele"",
+    ""Entity 2"": ""strongest genetic risk factor for sporadic Alzheimer's disease"",
+    ""Relationship"": ""is""
+  }
+]",
+39817469,APOE4 impact on soluble and insoluble tau pathology is mostly influenced by amyloid-β.,AD,4,1,"The the study included a total of 1370 cognitively unimpaired subjects and 449 with mild cognitive impairment, followed longitudinally with tau-PET and p-tau217.","[{""Entity 1"": ""study"", ""Relationship"": ""included"", ""Entity 2"": ""1370 cognitively unimpaired subjects and 449 with mild cognitive impairment""}, {""Entity 1"": ""1370 cognitively unimpaired subjects and 449 with mild cognitive impairment"", ""Relationship"": ""followed longitudinally"", ""Entity 2"": ""tau-PET and p-tau217""}]","
+
+[
+  {
+    ""Entity 1"": ""study"",
+    ""Entity 2"": ""1370 cognitively unimpaired subjects and 449 with mild cognitive impairment"",
+    ""Relationship"": ""included""
+  },
+  {
+    ""Entity 1"": ""1370 cognitively unimpaired subjects and 449 with mild cognitive impairment"",
+    ""Entity 2"": ""tau-PET and p-tau217"",
+    ""Relationship"": ""followed longitudinally""
+  }
+]",
+39817469,APOE4 impact on soluble and insoluble tau pathology is mostly influenced by amyloid-β.,AD,5,1,APOE4 allele carriers accounted for 40.2%-50% of the cohorts.,"[{""Entity 1"": ""APOE4 allele carriers"", ""Relationship"": ""accounted for"", ""Entity 2"": ""cohorts""}]","
+
+[
+  {
+    ""Entity 1"": ""APOE4 allele carriers"",
+    ""Entity 2"": ""cohorts"",
+    ""Relationship"": ""accounted for""
+  }
+]",

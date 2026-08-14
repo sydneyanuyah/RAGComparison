@@ -1,0 +1,56 @@
+{
+  "No-RAG": {
+    "accuracy": 0.5818181818181818,
+    "precision_macro": 0.4736486486486486,
+    "recall_macro": 0.4623774509803922,
+    "f1_macro": 0.4633493946132937,
+    "precision_micro": 0.5818181818181818,
+    "recall_micro": 0.5818181818181818,
+    "f1_micro": 0.5818181818181818
+  },
+  "G1": {
+    "accuracy": 0.5181818181818182,
+    "precision_macro": 0.4344298245614035,
+    "recall_macro": 0.39215686274509803,
+    "f1_macro": 0.39043747580332944,
+    "precision_micro": 0.5181818181818182,
+    "recall_micro": 0.5181818181818182,
+    "f1_micro": 0.5181818181818182
+  },
+  "G2": {
+    "accuracy": 0.5,
+    "precision_macro": 0.4036929396264434,
+    "recall_macro": 0.38186274509803925,
+    "f1_macro": 0.3851500938086304,
+    "precision_micro": 0.5,
+    "recall_micro": 0.5,
+    "f1_micro": 0.5
+  },
+  "G1+G2": {
+    "accuracy": 0.4727272727272727,
+    "precision_macro": 0.41571556350626115,
+    "recall_macro": 0.3947303921568628,
+    "f1_macro": 0.39421824421824425,
+    "precision_micro": 0.4727272727272727,
+    "recall_micro": 0.4727272727272727,
+    "f1_micro": 0.4727272727272727
+  },
+  "G3": {
+    "accuracy": 0.5,
+    "precision_macro": 0.4044003868471953,
+    "recall_macro": 0.38186274509803925,
+    "f1_macro": 0.3720453031312459,
+    "precision_micro": 0.5,
+    "recall_micro": 0.5,
+    "f1_micro": 0.5
+  },
+  "G1+G2+G3": {
+    "accuracy": 0.4636363636363636,
+    "precision_macro": 0.39433465085638997,
+    "recall_macro": 0.34889705882352945,
+    "f1_macro": 0.34612942612942604,
+    "precision_micro": 0.4636363636363636,
+    "recall_micro": 0.4636363636363636,
+    "f1_micro": 0.4636363636363636
+  }
+}
